@@ -11,7 +11,7 @@
   },
   {
    "file": "batches/source-passports-research-2026-10-14a.csv",
-   "sha256": "ffec3a4b85ed39fd2bde74fff28f6788d4e76638d2d28a82acefcbdb602ab13f",
+   "sha256": "b2bef447c4e2ea00ad9836511b76722edb754785cd8dbf5617ae5cbb597c1a94",
    "rows": 56,
    "note": "Research batch 2a: UK, Denmark and Ireland media (56 outlets), drafted 14 Oct 2026, pending check"
   }
