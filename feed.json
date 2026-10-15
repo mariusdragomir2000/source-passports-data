@@ -1,7 +1,7 @@
 {
  "program": "Source Passports",
  "keeper": "MPMONITOR / Media and Journalism Research Center (MJRC)",
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "files": [
   {
    "file": "batches/source-passports-research-2026-10-13.csv",
@@ -14,6 +14,12 @@
    "sha256": "b2bef447c4e2ea00ad9836511b76722edb754785cd8dbf5617ae5cbb597c1a94",
    "rows": 56,
    "note": "Research batch 2a: UK, Denmark and Ireland media (56 outlets), drafted 14 Oct 2026, pending check"
+  },
+  {
+   "file": "batches/source-passports-research-2026-10-15.csv",
+   "sha256": "31488da439ec18104574f1190f925e9a2fba51aef68e85778c70c062e909f3b3",
+   "rows": 37,
+   "note": "Research batch 2b: regulators and public bodies of IS, IT, LT, LU, LV, MT, NL (37), drafted 14 Oct 2026, pending check"
   }
  ]
 }

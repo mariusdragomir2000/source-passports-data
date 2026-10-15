@@ -1,0 +1,25 @@
+name: Mirror the daily open-data snapshot
+# Continuity safeguard: keeps a copy of the whole public register outside the
+# web server. Runs daily; commits only when the file changed.
+on:
+  schedule:
+    - cron: "40 4 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download the snapshot
+        run: |
+          curl -fsSL --retry 3 -o mirror/passports-latest.json \
+            "https://mpmonitor.org/wp-content/uploads/passport-open-data/passports-latest.json"
+          python3 -c "import json;d=json.load(open('mirror/passports-latest.json'));print(d['register']['generated'], d.get('count'))"
+      - name: Commit if changed
+        run: |
+          git config user.name "snapshot-mirror"
+          git config user.email "actions@users.noreply.github.com"
+          git add mirror/passports-latest.json
+          git diff --cached --quiet && echo "No change" || git commit -m "Snapshot $(date -u +%F)" && git push

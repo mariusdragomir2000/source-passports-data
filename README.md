@@ -7,3 +7,5 @@ Research files for the Source Passports register kept by MPMONITOR (Media and Jo
 - `FORMAT.md` describes the columns and the accuracy rules.
 
 Data licence: CC BY-SA 4.0. Register: https://mpmonitor.org/passports/
+
+- `mirror/passports-latest.json` is a daily copy of the register's public open-data snapshot, kept here by a GitHub Action as the continuity safeguard (a complete copy outside the web server).
