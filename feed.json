@@ -1,7 +1,7 @@
 {
  "program": "Source Passports",
  "keeper": "MPMONITOR / Media and Journalism Research Center (MJRC)",
- "updated": "2026-10-16",
+ "updated": "2026-10-17",
  "files": [
   {
    "file": "batches/source-passports-research-2026-10-13.csv",
@@ -68,6 +68,12 @@
    "sha256": "75b19e7206d0bf25c0c09060af6c27fca10dec7483a506039f7e300737652aa4",
    "rows": 15,
    "note": "Research batch 3h: political parties of SI, SK (15), drafted 16 Oct 2026, pending check"
+  },
+  {
+   "file": "batches/source-passports-research-2026-10-17a.csv",
+   "sha256": "46e0435d22b565b10d18bbd334025539b624221e98f027366ec90263b15e9f97",
+   "rows": 30,
+   "note": "Research batch 4a: Hungarian and Slovak media (30), drafted 16-17 Oct 2026, pending check"
   }
  ]
 }
