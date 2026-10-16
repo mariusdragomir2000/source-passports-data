@@ -80,6 +80,12 @@
    "sha256": "18c2ae6d95187817929754f04010f14f1a0cda8ba411f4bd3659ee872657abaf",
    "rows": 30,
    "note": "Research batch 4b: Croatian and Slovenian media (30; 8 rows notes only), drafted 17 Oct 2026, pending check"
+  },
+  {
+   "file": "batches/source-passports-research-2026-10-17c.csv",
+   "sha256": "93461e4f170b4d5363937cbcb7485579b5f6d32cfe8c7c62ff51db28338e00be",
+   "rows": 31,
+   "note": "Research batch 4c: Greek and Cypriot media (31; 9 rows notes only), drafted 17 Oct 2026, pending check"
   }
  ]
 }
