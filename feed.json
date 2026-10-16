@@ -26,6 +26,12 @@
    "sha256": "4d357f929cc6af26322e38d8426579331c0df3e0f5ec4aa9467ab9f0a73c9941",
    "rows": 87,
    "note": "Research batch 3a: Norway media (41); regulators and public bodies of AT, BE, BG, CH, CY, DK, EE (34); kind corrected to political party for 23 records (BE, ZA, NG, CV), drafted 16 Oct 2026, pending check"
+  },
+  {
+   "file": "batches/source-passports-research-2026-10-16b.csv",
+   "sha256": "4215b0b79e2c9e71b6e204ca266183a4977451c80ff75997e8527c54f6125925",
+   "rows": 59,
+   "note": "Research batch 3b: regulators and public bodies of FI, FR, GB, GR, HR, HU, IE, NO, PT, SE, SI (59), drafted 16 Oct 2026, pending check"
   }
  ]
 }
