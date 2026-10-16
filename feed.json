@@ -92,6 +92,12 @@
    "sha256": "094086a21cf0e97bd640afaa10302ac00e8948ba05d515a487c60c9c3f753377",
    "rows": 29,
    "note": "Research batch 4d: Portuguese and Spanish media (29), drafted 17 Oct 2026, pending check"
+  },
+  {
+   "file": "batches/source-passports-research-2026-10-17e.csv",
+   "sha256": "8109e31b691c8111cfd12042cdfbc40506f2b53f10ef2cd51b33f7677b5842c3",
+   "rows": 30,
+   "note": "Research batch 4e: Italian and Maltese media (30), drafted 17 Oct 2026, pending check"
   }
  ]
 }
