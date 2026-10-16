@@ -38,6 +38,12 @@
    "sha256": "b45e5f5f975b4042aeeb7fabb83bd025c7f46490429accee38c4a718eac4c23a",
    "rows": 35,
    "note": "Research batch 3c: political parties of GR, HR, HU, IE, IS (35), drafted 16 Oct 2026, pending check"
+  },
+  {
+   "file": "batches/source-passports-research-2026-10-16d.csv",
+   "sha256": "7b50e76abe9bcc8e29186d295997c75514df56323abf66bacc719cd015d841a3",
+   "rows": 35,
+   "note": "Research batch 3d: political parties of NO, PL, PT, RO, SE (35), drafted 16 Oct 2026, pending check"
   }
  ]
 }
