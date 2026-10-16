@@ -62,6 +62,12 @@
    "sha256": "97d99b49cf44a132526eaf45d7214f14affae36b3d5ba34d0d3e86d4f22253a9",
    "rows": 41,
    "note": "Research batch 3g: political parties of IT, LT, LU, LV, MT, NL (41), drafted 16 Oct 2026, pending check"
+  },
+  {
+   "file": "batches/source-passports-research-2026-10-16h.csv",
+   "sha256": "75b19e7206d0bf25c0c09060af6c27fca10dec7483a506039f7e300737652aa4",
+   "rows": 15,
+   "note": "Research batch 3h: political parties of SI, SK (15), drafted 16 Oct 2026, pending check"
   }
  ]
 }
