@@ -32,6 +32,12 @@
    "sha256": "4215b0b79e2c9e71b6e204ca266183a4977451c80ff75997e8527c54f6125925",
    "rows": 59,
    "note": "Research batch 3b: regulators and public bodies of FI, FR, GB, GR, HR, HU, IE, NO, PT, SE, SI (59), drafted 16 Oct 2026, pending check"
+  },
+  {
+   "file": "batches/source-passports-research-2026-10-16c.csv",
+   "sha256": "b45e5f5f975b4042aeeb7fabb83bd025c7f46490429accee38c4a718eac4c23a",
+   "rows": 35,
+   "note": "Research batch 3c: political parties of GR, HR, HU, IE, IS (35), drafted 16 Oct 2026, pending check"
   }
  ]
 }
