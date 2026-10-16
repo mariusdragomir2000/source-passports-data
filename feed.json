@@ -86,6 +86,12 @@
    "sha256": "93461e4f170b4d5363937cbcb7485579b5f6d32cfe8c7c62ff51db28338e00be",
    "rows": 31,
    "note": "Research batch 4c: Greek and Cypriot media (31; 9 rows notes only), drafted 17 Oct 2026, pending check"
+  },
+  {
+   "file": "batches/source-passports-research-2026-10-17d.csv",
+   "sha256": "094086a21cf0e97bd640afaa10302ac00e8948ba05d515a487c60c9c3f753377",
+   "rows": 29,
+   "note": "Research batch 4d: Portuguese and Spanish media (29), drafted 17 Oct 2026, pending check"
   }
  ]
 }
