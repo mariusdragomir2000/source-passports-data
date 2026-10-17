@@ -37,9 +37,37 @@ Single values:
 - `editor_in_chief`: the editor-in-chief for media, the head (director, chair, secretary-general) for other organisations, with the title in brackets.
 - `parent_group`: the ultimate parent, with the chain in brackets if useful.
 
-Sources (`sources_origin`, `sources_control`, `sources_money`, `sources_channels`, `sources_distribution`, `sources_networks`): one per line, format `Title or register, date (what it shows) | URL`. Every non-empty layer needs at least one source. Prefer, in this order: the national company register or UBO register; the regulator's licence register; the organisation's own ownership/transparency/About page (since August 2025 EU media must publish ownership under EMFA Article 6); annual reports and stock-exchange filings; then reputable press for context only.
+Sources (`sources_origin`, `sources_control`, `sources_money`, `sources_channels`, `sources_distribution`, `sources_networks`): one per line, format `Title or register, date (what it shows) | URL`. Every non-empty layer needs at least one source. Prefer, in this order: the national company register or UBO register; the regulator's licence register; the organisation's own ownership/transparency/About page (since August 2025 news media in the EU must publish ownership under EMFA Article 6); annual reports and stock-exchange filings; then reputable press for context only.
 
 `research_notes` (private, not published): what you could not find, conflicts between sources, press-only claims, and anything a verifier should check first. Start it with `Drafted [date] by automated research; sources as listed.`
+
+## Which columns apply to which kind
+
+The register shows only the facts that fit the kind of organisation (plugin 1.5 and later). Do not spend time on columns marked "no": they are not shown for that kind. Values already present are kept in the data, never deleted.
+
+| Column | Media | Platform | Business, agency | Party | Regulator, public body | Civil society, funder |
+|---|---|---|---|---|---|---|
+| media_type | yes | no | no | no | no | no |
+| editor_in_chief (shown as) | Editor-in-chief | Chief executive | Chief executive | Leader | Head | Director or chair |
+| owners | yes | yes | yes | no | owner or founding authority | founders or members with control |
+| beneficial_owners | yes | yes | yes | no | no | yes |
+| state_ownership | yes | yes | yes | no | yes | yes |
+| parent_group (shown as) | parent group | parent group | parent group | European or international party family | answers to | network or umbrella organisation |
+| public_funding (state advertising) | yes | no | no | no | no | no |
+| revenue_mix | yes | yes | yes | income mix | how it is funded | income mix |
+| major_funders | yes | investors and funders | investors and funders | state funding and named donors | budget and funding bodies | funders and donors |
+| distribution_partners | yes | no | no | no | no | no |
+| sister_outlets (shown as) | sister outlets | other services of the group | related companies | media, foundations and other bodies it controls | agencies and funds under it | no |
+| political_links | yes | yes | yes | no | roles of board members | yes |
+
+`revenue_mix` categories by kind (use these words in the first part):
+- media and platforms: `advertising, readers, grants, public, owner, other`
+- businesses and agencies: `advertising` (advertising), `readers` (subscriptions and user payments), `public` (public contracts and funding), `owner` (owner or group funding), `other` (sales, services and other)
+- parties: `public` (state funding), `grants` (donations), `other` (membership fees and other income)
+- regulators and public bodies: `public` (state budget), `other` (fees, levies and own income), `grants` (grants)
+- civil society and funders: `grants` (grants and donations), `public` (public funding), `readers` (members and individual supporters), `other` (other income)
+
+The European Media Freedom Act (EMFA) applies only to news media in the 27 EU member states. Do not cite it as the reason a non-EU outlet, or any organisation that is not a news medium, should disclose something. Outside the EU, the third part of `public_funding` means foreign (non-domestic) public funding.
 
 ## Rules
 
