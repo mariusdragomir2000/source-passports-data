@@ -10,16 +10,32 @@ permissions:
 jobs:
   mirror:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Download the snapshot
         run: |
-          curl -fsSL --retry 3 -o mirror/passports-latest.json \
+          mkdir -p mirror
+          # Short connection timeout and several spaced retries: if the site is
+          # slow or briefly unreachable, try again a few minutes later instead
+          # of waiting on one connection for a quarter of an hour.
+          curl -fsSL --create-dirs \
+            --connect-timeout 30 --max-time 300 \
+            --retry 5 --retry-delay 60 --retry-all-errors \
+            -A "source-passports-mirror/1.0 (+https://github.com/mariusdragomir2000/source-passports-data)" \
+            -o mirror/passports-latest.json.new \
             "https://mpmonitor.org/wp-content/uploads/passport-open-data/passports-latest.json"
-          python3 -c "import json;d=json.load(open('mirror/passports-latest.json'));print(d['register']['generated'], d.get('count'))"
+          # Keep the previous copy unless the new one is a valid snapshot.
+          python3 -c "import json;d=json.load(open('mirror/passports-latest.json.new'));assert d['register']['generated'];print('Snapshot', d['register']['generated'], 'passports:', d.get('count'))"
+          mv mirror/passports-latest.json.new mirror/passports-latest.json
       - name: Commit if changed
         run: |
           git config user.name "snapshot-mirror"
           git config user.email "actions@users.noreply.github.com"
           git add mirror/passports-latest.json
-          git diff --cached --quiet && echo "No change" || git commit -m "Snapshot $(date -u +%F)" && git push
+          if git diff --cached --quiet; then
+            echo "No change"
+          else
+            git commit -m "Snapshot $(date -u +%F)"
+            git push
+          fi
