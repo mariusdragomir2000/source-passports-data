@@ -368,6 +368,12 @@
       "sha256": "689ab04659a8f427fffc0ffcc070cd2048e134e2c2d9fc1b0aca8f9b0ae99ee5",
       "rows": 6,
       "note": "Research batch Q030: new EU party records in NL, PL, PT, RO, SE and others (28 checked) (6 new records), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zs.csv",
+      "sha256": "221d342637c7251bc086aea674d8581b9f38f3ac81b2e35ce49a1b54bf0a1a41",
+      "rows": 35,
+      "note": "Research batch Q034: media in Chile, Cameroon, Colombia, Costa Rica and others (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
