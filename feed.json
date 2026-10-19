@@ -398,6 +398,12 @@
       "sha256": "2517907c3364123270d14fe270e68d9feaa4c01a1c160ed7c2285dd9dc5566ed",
       "rows": 35,
       "note": "Research batch Q039: media in Kenya, Kyrgyzstan, Cambodia and South Korea (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zx.csv",
+      "sha256": "19bccb8d51f8e0aab1e93011a04a4133e43ef096e3cb0ccd9d70e276efff6538",
+      "rows": 35,
+      "note": "Research batch Q037: media in Honduras, Indonesia, Israel and India (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
