@@ -410,6 +410,12 @@
       "sha256": "cdc49c65ae81f97293802bb50da69850231e6f11add30f91c0088ca7a5b669c0",
       "rows": 35,
       "note": "Research batch Q038: media in India, Jordan, Japan and Kenya (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zz.csv",
+      "sha256": "a15277dfa4aa1af19efb065a5d583a5c7cafdb4bbd8c1e4a7d57a14a15c35a7d",
+      "rows": 35,
+      "note": "Research batch Q046: media in the Philippines, Pakistan, Qatar and Rwanda (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
