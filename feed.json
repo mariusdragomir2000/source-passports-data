@@ -476,6 +476,12 @@
       "sha256": "6eed02c5eb23a58494e9cb814bb9a891cd599500faafaa583a8b08ce09e1838b",
       "rows": 35,
       "note": "Research batch Q042: media in Madagascar, Myanmar, Mongolia and Mexico (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zzk.csv",
+      "sha256": "aed62ed830bdaf900730c4e1d143d22694261fe79861b3d3a76a2b5b7eaeb6f1",
+      "rows": 32,
+      "note": "Research batch Q051: media in South Africa and Zimbabwe (32), drafted 19 Oct 2026, pending check"
     }
   ]
 }
