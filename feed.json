@@ -152,6 +152,12 @@
       "sha256": "19039282708fa1ad03fb7f8aaa2a7300dd7ceb985af133dcd775dde889d21439",
       "rows": 35,
       "note": "Research batch Q008: EU platforms in AT, BE, BG, CY and others (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19i.csv",
+      "sha256": "af60263c06a348a9baeaac5391e8da2a01a251f3041107285f72d2b45435ef00",
+      "rows": 29,
+      "note": "Research batch Q004: parties in Serbia, Russia, Turkey, Ukraine and Kosovo (34) (19 new records), drafted 19 Oct 2026, pending check"
     }
   ]
 }
