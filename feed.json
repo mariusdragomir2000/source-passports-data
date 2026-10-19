@@ -452,6 +452,12 @@
       "sha256": "d17b9b840a112c5241d1c6f8b41967fb12f5d466be86d58ca8de88423e87c306",
       "rows": 35,
       "note": "Research batch Q044: media in Nigeria, Nicaragua and Nepal (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zzg.csv",
+      "sha256": "e8a09f677e93ab371fd309db6706127e27224304466bc25d510336d181c2d0ce",
+      "rows": 35,
+      "note": "Research batch Q050: media in Uganda, the US, Uruguay and South Africa (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
