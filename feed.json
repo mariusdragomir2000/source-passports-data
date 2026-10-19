@@ -458,6 +458,12 @@
       "sha256": "e8a09f677e93ab371fd309db6706127e27224304466bc25d510336d181c2d0ce",
       "rows": 35,
       "note": "Research batch Q050: media in Uganda, the US, Uruguay and South Africa (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zzh.csv",
+      "sha256": "1217457ab9e3e1979eb145911108fe1a12d1b8c3f40119b6a72a9cc626cf6665",
+      "rows": 23,
+      "note": "Research batch Q055: parties in Chile, Cameroon, Colombia, Costa Rica and others (35 checked) (4 new records), drafted 19 Oct 2026, pending check"
     }
   ]
 }
