@@ -272,6 +272,12 @@
       "sha256": "71965a509378b9f8fb9afe036851b5bf099f4878485b06b8833b73b3c1cf4d34",
       "rows": 30,
       "note": "Research batch G001: second pass on Ukrainian and Moldovan media (30), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zc.csv",
+      "sha256": "062b9e5e9ad4fb5a857252ed26f2ae43775bbe60c98ea6399c72d491455bf7d3",
+      "rows": 44,
+      "note": "Research batch W1: media of Belarus, Switzerland, Iceland and Liechtenstein (44), drafted 19 Oct 2026, pending check"
     }
   ]
 }
