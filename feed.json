@@ -248,6 +248,12 @@
       "sha256": "41c8adad1443d4d4b4853d68f6f12996b5e23476dd735e812bce4a47e5dc0aee",
       "rows": 2,
       "note": "Correction batch: restores two facts removed by mistake (BTK funding, Ukrainian defence minister), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19y.csv",
+      "sha256": "41da8e3aaae0061d134a5515539e1a2c2812071b520c6525420c8b20a4299a9f",
+      "rows": 32,
+      "note": "Research batch Q020: platforms in Moldova, Montenegro, North Macedonia, Norway and others (32), drafted 19 Oct 2026, pending check"
     }
   ]
 }
