@@ -266,6 +266,12 @@
       "sha256": "34ec455997e3a83bf0dd4ded6503803a179e23da9b156a29f2e5f20b94db2e40",
       "rows": 35,
       "note": "Research batch Q021: businesses in wider Europe (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zb.csv",
+      "sha256": "71965a509378b9f8fb9afe036851b5bf099f4878485b06b8833b73b3c1cf4d34",
+      "rows": 30,
+      "note": "Research batch G001: second pass on Ukrainian and Moldovan media (30), drafted 19 Oct 2026, pending check"
     }
   ]
 }
