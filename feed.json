@@ -254,6 +254,12 @@
       "sha256": "41da8e3aaae0061d134a5515539e1a2c2812071b520c6525420c8b20a4299a9f",
       "rows": 32,
       "note": "Research batch Q020: platforms in Moldova, Montenegro, North Macedonia, Norway and others (32), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19z.csv",
+      "sha256": "ef20cca814c41a2debb589f45e71905aa131f23498a0cf7aa3108c294c44c2d2",
+      "rows": 35,
+      "note": "Research batch Q012: EU businesses in DK, EE, FI, FR and others (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
