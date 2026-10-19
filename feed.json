@@ -140,6 +140,12 @@
       "sha256": "cf340c440b8a09cdd671598824d1e47b1016a3d0d351d969e989280ddb9607f1",
       "rows": 10,
       "note": "Research batch Q006: regulators in North Macedonia, Serbia, Turkey and Ukraine (10), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19g.csv",
+      "sha256": "6ff590fafc0e93d408e716695c239d361f3f638bc2a498830b0cc4d4291368db",
+      "rows": 34,
+      "note": "Research batch Q010: EU platforms in NL, PL, PT, SE and others (34), drafted 19 Oct 2026, pending check"
     }
   ]
 }
