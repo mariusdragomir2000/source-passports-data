@@ -380,6 +380,12 @@
       "sha256": "2bd3c764b82ac5387f041bd68701bad552db0ed2c3c01753fc3d4f82546adb77",
       "rows": 35,
       "note": "Research batch Q035: media in Cape Verde, Egypt, Gabon and Ghana (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zu.csv",
+      "sha256": "a5eb7b11b792dd7c97b87fde619ca14ca7c3fbed5831ea9f8ce7538d42c0bada",
+      "rows": 35,
+      "note": "Research batch Q033: media in Brazil, Botswana, Canada and Chile (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
