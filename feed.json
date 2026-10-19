@@ -359,9 +359,9 @@
     },
     {
       "file": "batches/source-passports-research-2026-10-19zq.csv",
-      "sha256": "aedaca971be9c6000d56af605444582bbb73174431765cb6cfe1cd5053deb3be",
-      "rows": 13,
-      "note": "Research batch Q029: new EU party records in HU, IE, IT, LT and others (35 checked) (13 new records), drafted 19 Oct 2026, pending check"
+      "sha256": "6724b52546bf0b9c28e5ce785e5a42b197e007da9aeb4838a94d932f88666e9a",
+      "rows": 12,
+      "note": "Research batch Q029: new EU party records in HU, IE, IT, LT and others (35 checked) (12 new records), drafted 19 Oct 2026, pending check"
     }
   ]
 }
