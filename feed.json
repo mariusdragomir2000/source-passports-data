@@ -302,6 +302,12 @@
       "sha256": "81d33870fcbc86fc7cfeaf0c6abfc6cae92c0b74511216a1bb9d0e8c630c0c78",
       "rows": 9,
       "note": "Research batch Q026: civil society in Norway and Ukraine (9), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zh.csv",
+      "sha256": "99792dacf4ed33286b70828d3de1a8c9d3ca9296e7ebdc359e7af90f95950da8",
+      "rows": 35,
+      "note": "Research batch Q016: EU agencies in AT, FI, FR, IE and others (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
