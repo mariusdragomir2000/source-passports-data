@@ -392,6 +392,12 @@
       "sha256": "a30e240fe6824692c41958619ddeaf9a5b11b428e1616295c7782c5c0513421d",
       "rows": 35,
       "note": "Research batch Q036: media in Ghana, Guatemala and Honduras (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zw.csv",
+      "sha256": "2517907c3364123270d14fe270e68d9feaa4c01a1c160ed7c2285dd9dc5566ed",
+      "rows": 35,
+      "note": "Research batch Q039: media in Kenya, Kyrgyzstan, Cambodia and South Korea (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
