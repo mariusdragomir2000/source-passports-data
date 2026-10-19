@@ -278,6 +278,12 @@
       "sha256": "062b9e5e9ad4fb5a857252ed26f2ae43775bbe60c98ea6399c72d491455bf7d3",
       "rows": 44,
       "note": "Research batch W1: media of Belarus, Switzerland, Iceland and Liechtenstein (44), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zd.csv",
+      "sha256": "1e8eac7a19be940f95562539fc0c198492071a44ea1be2e7b0feb739ad5efc04",
+      "rows": 18,
+      "note": "Research batch Q023: businesses in Norway, Serbia, Turkey and Ukraine (18), drafted 19 Oct 2026, pending check"
     }
   ]
 }
