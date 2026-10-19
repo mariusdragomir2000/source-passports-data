@@ -27,12 +27,17 @@ jobs:
             "https://mpmonitor.org/wp-content/uploads/passport-open-data/passports-latest.json"
           # Keep the previous copy unless the new one is a valid snapshot.
           python3 -c "import json;d=json.load(open('mirror/passports-latest.json.new'));assert d['register']['generated'];print('Snapshot', d['register']['generated'], 'passports:', d.get('count'))"
-          mv mirror/passports-latest.json.new mirror/passports-latest.json
+          # Stored compressed: the full register is tens of megabytes as plain
+          # JSON, a few as .gz (GitHub warns above 50 MB per file).
+          gzip -9nc mirror/passports-latest.json.new > mirror/passports-latest.json.gz
+          rm mirror/passports-latest.json.new
       - name: Commit if changed
         run: |
           git config user.name "snapshot-mirror"
           git config user.email "actions@users.noreply.github.com"
-          git add mirror/passports-latest.json
+          git rm -q --cached --ignore-unmatch mirror/passports-latest.json
+          rm -f mirror/passports-latest.json
+          git add mirror/passports-latest.json.gz
           if git diff --cached --quiet; then
             echo "No change"
           else
