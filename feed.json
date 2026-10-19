@@ -326,6 +326,12 @@
       "sha256": "e819bb74fc6bf2e8e76df00c7739291df1180f2453d1c3bb113963148370a0c5",
       "rows": 35,
       "note": "Research batch Q014: EU businesses in MT, NL, PL, PT and others (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zl.csv",
+      "sha256": "ac107e4a61d5877f65b64dcd53810cd580e1ac18ba46cc2393441bbee6349bf4",
+      "rows": 14,
+      "note": "Research batch Q003: parties in Montenegro, North Macedonia and Serbia (35) (4 new records), drafted 19 Oct 2026, pending check"
     }
   ]
 }
