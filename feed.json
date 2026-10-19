@@ -446,6 +446,12 @@
       "sha256": "926da586c8ea9ca1ad2d780cc74a50a1e13d300615a03897f7504b01d613018e",
       "rows": 35,
       "note": "Research batch Q049: media in Tunisia, Taiwan, Tanzania and Uganda (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zzf.csv",
+      "sha256": "d17b9b840a112c5241d1c6f8b41967fb12f5d466be86d58ca8de88423e87c306",
+      "rows": 35,
+      "note": "Research batch Q044: media in Nigeria, Nicaragua and Nepal (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
