@@ -422,6 +422,12 @@
       "sha256": "5124e5511725e0648f266a9cca76759c22f9b3cf482f15517c28b5351c65520a",
       "rows": 35,
       "note": "Research batch Q047: media in Saudi Arabia, Singapore and Senegal (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zzb.csv",
+      "sha256": "315bac6f87b9598d44422b5fc15fed21600448283208c654c922c100e1f636a0",
+      "rows": 35,
+      "note": "Research batch Q040: media in South Korea, Kazakhstan and Lebanon (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
