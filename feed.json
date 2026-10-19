@@ -260,6 +260,12 @@
       "sha256": "ef20cca814c41a2debb589f45e71905aa131f23498a0cf7aa3108c294c44c2d2",
       "rows": 35,
       "note": "Research batch Q012: EU businesses in DK, EE, FI, FR and others (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19za.csv",
+      "sha256": "34ec455997e3a83bf0dd4ded6503803a179e23da9b156a29f2e5f20b94db2e40",
+      "rows": 35,
+      "note": "Research batch Q021: businesses in wider Europe (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
