@@ -110,6 +110,12 @@
       "sha256": "e963a625f6940d03ab5a30c454d6432c84ffdbf37f21a468a275c941d7dd92c9",
       "rows": 39,
       "note": "Research batch W1: Baltic media (39), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19b.csv",
+      "sha256": "145a97b1d3d679e596ebc5f9d3cc9bab357213f43f6d23fb37fe71a497c5a1ab",
+      "rows": 12,
+      "note": "Research batch W1: Bulgarian media (12), drafted 19 Oct 2026, pending check"
     }
   ]
 }
