@@ -308,6 +308,12 @@
       "sha256": "99792dacf4ed33286b70828d3de1a8c9d3ca9296e7ebdc359e7af90f95950da8",
       "rows": 35,
       "note": "Research batch Q016: EU agencies in AT, FI, FR, IE and others (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zi.csv",
+      "sha256": "b05c08b65ce3dc61adc85f3d29108cf5634896a394b40bca96b0b6889f03af35",
+      "rows": 35,
+      "note": "Research batch Q025: civil society in wider Europe and the UK (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
