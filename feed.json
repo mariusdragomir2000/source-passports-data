@@ -146,6 +146,12 @@
       "sha256": "6ff590fafc0e93d408e716695c239d361f3f638bc2a498830b0cc4d4291368db",
       "rows": 34,
       "note": "Research batch Q010: EU platforms in NL, PL, PT, SE and others (34), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19h.csv",
+      "sha256": "19039282708fa1ad03fb7f8aaa2a7300dd7ceb985af133dcd775dde889d21439",
+      "rows": 35,
+      "note": "Research batch Q008: EU platforms in AT, BE, BG, CY and others (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
