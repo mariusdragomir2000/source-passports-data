@@ -1,109 +1,115 @@
 {
- "program": "Source Passports",
- "keeper": "MPMONITOR / Media and Journalism Research Center (MJRC)",
- "updated": "2026-10-17",
- "files": [
-  {
-   "file": "batches/source-passports-research-2026-10-13.csv",
-   "sha256": "dd759189ec7bec4903afb813752e4936cc26694e21c1e50cd11f0ab858de8d21",
-   "rows": 517,
-   "note": "Research batch 1: EU media (AT, BE, CZ, FI, FR, NL, SE) and platform parents, drafted 13 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-14a.csv",
-   "sha256": "b2bef447c4e2ea00ad9836511b76722edb754785cd8dbf5617ae5cbb597c1a94",
-   "rows": 56,
-   "note": "Research batch 2a: UK, Denmark and Ireland media (56 outlets), drafted 14 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-15.csv",
-   "sha256": "31488da439ec18104574f1190f925e9a2fba51aef68e85778c70c062e909f3b3",
-   "rows": 37,
-   "note": "Research batch 2b: regulators and public bodies of IS, IT, LT, LU, LV, MT, NL (37), drafted 14 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-16a.csv",
-   "sha256": "4d357f929cc6af26322e38d8426579331c0df3e0f5ec4aa9467ab9f0a73c9941",
-   "rows": 87,
-   "note": "Research batch 3a: Norway media (41); regulators and public bodies of AT, BE, BG, CH, CY, DK, EE (34); kind corrected to political party for 23 records (BE, ZA, NG, CV), drafted 16 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-16b.csv",
-   "sha256": "4215b0b79e2c9e71b6e204ca266183a4977451c80ff75997e8527c54f6125925",
-   "rows": 59,
-   "note": "Research batch 3b: regulators and public bodies of FI, FR, GB, GR, HR, HU, IE, NO, PT, SE, SI (59), drafted 16 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-16c.csv",
-   "sha256": "b45e5f5f975b4042aeeb7fabb83bd025c7f46490429accee38c4a718eac4c23a",
-   "rows": 35,
-   "note": "Research batch 3c: political parties of GR, HR, HU, IE, IS (35), drafted 16 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-16d.csv",
-   "sha256": "7b50e76abe9bcc8e29186d295997c75514df56323abf66bacc719cd015d841a3",
-   "rows": 35,
-   "note": "Research batch 3d: political parties of NO, PL, PT, RO, SE (35), drafted 16 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-16e.csv",
-   "sha256": "68edf8b8d3958cd274f36ea31d6b8bb2c1ca70ee662cb50fff3e7adaa835737d",
-   "rows": 37,
-   "note": "Research batch 3e: political parties of DK, EE, ES, FI, FR, GB (37), drafted 16 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-16f.csv",
-   "sha256": "54cf7a3636cd4e6ecabf5e6704d1af7297ad62557919b6707da6d95bb9a59d2c",
-   "rows": 35,
-   "note": "Research batch 3f: political parties of AT, BG, CH, CY, CZ (34), drafted 16 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-16g.csv",
-   "sha256": "97d99b49cf44a132526eaf45d7214f14affae36b3d5ba34d0d3e86d4f22253a9",
-   "rows": 41,
-   "note": "Research batch 3g: political parties of IT, LT, LU, LV, MT, NL (41), drafted 16 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-16h.csv",
-   "sha256": "75b19e7206d0bf25c0c09060af6c27fca10dec7483a506039f7e300737652aa4",
-   "rows": 15,
-   "note": "Research batch 3h: political parties of SI, SK (15), drafted 16 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-17a.csv",
-   "sha256": "46e0435d22b565b10d18bbd334025539b624221e98f027366ec90263b15e9f97",
-   "rows": 30,
-   "note": "Research batch 4a: Hungarian and Slovak media (30), drafted 16-17 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-17b.csv",
-   "sha256": "18c2ae6d95187817929754f04010f14f1a0cda8ba411f4bd3659ee872657abaf",
-   "rows": 30,
-   "note": "Research batch 4b: Croatian and Slovenian media (30; 8 rows notes only), drafted 17 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-17c.csv",
-   "sha256": "93461e4f170b4d5363937cbcb7485579b5f6d32cfe8c7c62ff51db28338e00be",
-   "rows": 31,
-   "note": "Research batch 4c: Greek and Cypriot media (31; 9 rows notes only), drafted 17 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-17d.csv",
-   "sha256": "094086a21cf0e97bd640afaa10302ac00e8948ba05d515a487c60c9c3f753377",
-   "rows": 29,
-   "note": "Research batch 4d: Portuguese and Spanish media (29), drafted 17 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-17e.csv",
-   "sha256": "8109e31b691c8111cfd12042cdfbc40506f2b53f10ef2cd51b33f7677b5842c3",
-   "rows": 30,
-   "note": "Research batch 4e: Italian and Maltese media (30), drafted 17 Oct 2026, pending check"
-  },
-  {
-   "file": "batches/source-passports-research-2026-10-17f.csv",
-   "sha256": "9e3e90ee6378280093c499a8e39ad9c552ba13489ed238554ff02f1b654b9c33",
-   "rows": 24,
-   "note": "Research batch 4f: Polish and Luxembourg media (24), drafted 17 Oct 2026, pending check"
-  }
- ]
+  "program": "Source Passports",
+  "keeper": "MPMONITOR / Media and Journalism Research Center (MJRC)",
+  "updated": "2026-10-19",
+  "files": [
+    {
+      "file": "batches/source-passports-research-2026-10-13.csv",
+      "sha256": "dd759189ec7bec4903afb813752e4936cc26694e21c1e50cd11f0ab858de8d21",
+      "rows": 517,
+      "note": "Research batch 1: EU media (AT, BE, CZ, FI, FR, NL, SE) and platform parents, drafted 13 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-14a.csv",
+      "sha256": "b2bef447c4e2ea00ad9836511b76722edb754785cd8dbf5617ae5cbb597c1a94",
+      "rows": 56,
+      "note": "Research batch 2a: UK, Denmark and Ireland media (56 outlets), drafted 14 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-15.csv",
+      "sha256": "31488da439ec18104574f1190f925e9a2fba51aef68e85778c70c062e909f3b3",
+      "rows": 37,
+      "note": "Research batch 2b: regulators and public bodies of IS, IT, LT, LU, LV, MT, NL (37), drafted 14 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-16a.csv",
+      "sha256": "4d357f929cc6af26322e38d8426579331c0df3e0f5ec4aa9467ab9f0a73c9941",
+      "rows": 87,
+      "note": "Research batch 3a: Norway media (41); regulators and public bodies of AT, BE, BG, CH, CY, DK, EE (34); kind corrected to political party for 23 records (BE, ZA, NG, CV), drafted 16 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-16b.csv",
+      "sha256": "4215b0b79e2c9e71b6e204ca266183a4977451c80ff75997e8527c54f6125925",
+      "rows": 59,
+      "note": "Research batch 3b: regulators and public bodies of FI, FR, GB, GR, HR, HU, IE, NO, PT, SE, SI (59), drafted 16 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-16c.csv",
+      "sha256": "b45e5f5f975b4042aeeb7fabb83bd025c7f46490429accee38c4a718eac4c23a",
+      "rows": 35,
+      "note": "Research batch 3c: political parties of GR, HR, HU, IE, IS (35), drafted 16 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-16d.csv",
+      "sha256": "7b50e76abe9bcc8e29186d295997c75514df56323abf66bacc719cd015d841a3",
+      "rows": 35,
+      "note": "Research batch 3d: political parties of NO, PL, PT, RO, SE (35), drafted 16 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-16e.csv",
+      "sha256": "68edf8b8d3958cd274f36ea31d6b8bb2c1ca70ee662cb50fff3e7adaa835737d",
+      "rows": 37,
+      "note": "Research batch 3e: political parties of DK, EE, ES, FI, FR, GB (37), drafted 16 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-16f.csv",
+      "sha256": "54cf7a3636cd4e6ecabf5e6704d1af7297ad62557919b6707da6d95bb9a59d2c",
+      "rows": 35,
+      "note": "Research batch 3f: political parties of AT, BG, CH, CY, CZ (34), drafted 16 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-16g.csv",
+      "sha256": "97d99b49cf44a132526eaf45d7214f14affae36b3d5ba34d0d3e86d4f22253a9",
+      "rows": 41,
+      "note": "Research batch 3g: political parties of IT, LT, LU, LV, MT, NL (41), drafted 16 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-16h.csv",
+      "sha256": "75b19e7206d0bf25c0c09060af6c27fca10dec7483a506039f7e300737652aa4",
+      "rows": 15,
+      "note": "Research batch 3h: political parties of SI, SK (15), drafted 16 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-17a.csv",
+      "sha256": "46e0435d22b565b10d18bbd334025539b624221e98f027366ec90263b15e9f97",
+      "rows": 30,
+      "note": "Research batch 4a: Hungarian and Slovak media (30), drafted 16-17 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-17b.csv",
+      "sha256": "18c2ae6d95187817929754f04010f14f1a0cda8ba411f4bd3659ee872657abaf",
+      "rows": 30,
+      "note": "Research batch 4b: Croatian and Slovenian media (30; 8 rows notes only), drafted 17 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-17c.csv",
+      "sha256": "93461e4f170b4d5363937cbcb7485579b5f6d32cfe8c7c62ff51db28338e00be",
+      "rows": 31,
+      "note": "Research batch 4c: Greek and Cypriot media (31; 9 rows notes only), drafted 17 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-17d.csv",
+      "sha256": "094086a21cf0e97bd640afaa10302ac00e8948ba05d515a487c60c9c3f753377",
+      "rows": 29,
+      "note": "Research batch 4d: Portuguese and Spanish media (29), drafted 17 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-17e.csv",
+      "sha256": "8109e31b691c8111cfd12042cdfbc40506f2b53f10ef2cd51b33f7677b5842c3",
+      "rows": 30,
+      "note": "Research batch 4e: Italian and Maltese media (30), drafted 17 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-17f.csv",
+      "sha256": "9e3e90ee6378280093c499a8e39ad9c552ba13489ed238554ff02f1b654b9c33",
+      "rows": 24,
+      "note": "Research batch 4f: Polish and Luxembourg media (24), drafted 17 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19a.csv",
+      "sha256": "e963a625f6940d03ab5a30c454d6432c84ffdbf37f21a468a275c941d7dd92c9",
+      "rows": 39,
+      "note": "Research batch W1: Baltic media (39), drafted 19 Oct 2026, pending check"
+    }
+  ]
 }
