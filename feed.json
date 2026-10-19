@@ -296,6 +296,12 @@
       "sha256": "49360416d12d63934b4668effdde65d7c446ccd5a49e647902d378eecc993aea",
       "rows": 35,
       "note": "Research batch Q022: businesses in Georgia, Iceland, Liechtenstein, Moldova and others (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zg.csv",
+      "sha256": "81d33870fcbc86fc7cfeaf0c6abfc6cae92c0b74511216a1bb9d0e8c630c0c78",
+      "rows": 9,
+      "note": "Research batch Q026: civil society in Norway and Ukraine (9), drafted 19 Oct 2026, pending check"
     }
   ]
 }
