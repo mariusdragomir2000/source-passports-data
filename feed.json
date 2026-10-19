@@ -314,6 +314,12 @@
       "sha256": "b05c08b65ce3dc61adc85f3d29108cf5634896a394b40bca96b0b6889f03af35",
       "rows": 35,
       "note": "Research batch Q025: civil society in wider Europe and the UK (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zj.csv",
+      "sha256": "6f3abc33cdf5923eaaeb676e2ea996cad74a3214abbb0b70c08241d852e40e71",
+      "rows": 35,
+      "note": "Research batch Q031: media in the UAE, Angola, Argentina and Australia (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
