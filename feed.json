@@ -440,6 +440,12 @@
       "sha256": "084236fc7dfea65b37de25a333ff65038666e30ac2fc455b1a83c042486ec683",
       "rows": 35,
       "note": "Research batch Q048: media in Senegal, El Salvador, Thailand and Tunisia (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zze.csv",
+      "sha256": "926da586c8ea9ca1ad2d780cc74a50a1e13d300615a03897f7504b01d613018e",
+      "rows": 35,
+      "note": "Research batch Q049: media in Tunisia, Taiwan, Tanzania and Uganda (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
