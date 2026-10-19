@@ -350,6 +350,12 @@
       "sha256": "65f7958585e2af8eb758524c07fadfdb8cfb78c9e4cfdc6031141371a6bc347d",
       "rows": 35,
       "note": "Research batch Q032: media in Australia, Bangladesh, Bolivia and Brazil (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zp.csv",
+      "sha256": "dea0a932e161debd6b62d3df49350567e4d6942e4e554cba213359f74c966a81",
+      "rows": 1,
+      "note": "Correction batch: restores Seven West Media's current owner (Southern Cross Media, January 2026), drafted 19 Oct 2026, pending check"
     }
   ]
 }
