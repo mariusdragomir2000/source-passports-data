@@ -434,6 +434,12 @@
       "sha256": "9f05589a77df5d1d86409be7b599336d50f27de3f318e187f839ae6bd568c9b9",
       "rows": 35,
       "note": "Research batch Q045: media in Oman, Panama, Peru and the Philippines (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zzd.csv",
+      "sha256": "084236fc7dfea65b37de25a333ff65038666e30ac2fc455b1a83c042486ec683",
+      "rows": 35,
+      "note": "Research batch Q048: media in Senegal, El Salvador, Thailand and Tunisia (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
