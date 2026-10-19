@@ -344,6 +344,12 @@
       "sha256": "1c044685a65023d40c6337c633ad07018028a5070b4e3a1c633fb1136d8b7e28",
       "rows": 15,
       "note": "Research batch Q027: new EU party records in AT, BE, BG, CY, CZ, DE and others (35 checked) (15 new records), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zo.csv",
+      "sha256": "65f7958585e2af8eb758524c07fadfdb8cfb78c9e4cfdc6031141371a6bc347d",
+      "rows": 35,
+      "note": "Research batch Q032: media in Australia, Bangladesh, Bolivia and Brazil (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
