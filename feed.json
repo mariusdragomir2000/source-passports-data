@@ -116,6 +116,12 @@
       "sha256": "145a97b1d3d679e596ebc5f9d3cc9bab357213f43f6d23fb37fe71a497c5a1ab",
       "rows": 12,
       "note": "Research batch W1: Bulgarian media (12), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19c.csv",
+      "sha256": "980b997d158335723fa763e47b1fa8fd581aa8be12dcc53c400236672f74e3d1",
+      "rows": 35,
+      "note": "Research batch W1: Bosnia and Herzegovina and North Macedonia media (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
