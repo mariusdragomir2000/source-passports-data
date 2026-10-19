@@ -470,6 +470,12 @@
       "sha256": "133cce5c8bcf752b6b88f3caac8eac66180d79008447baf6f129f01f1fa0c2e9",
       "rows": 17,
       "note": "Research batch Q053: parties in Bahrain, Burundi, Benin, Bolivia, Brazil and others (35 checked) (5 new records), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19zzj.csv",
+      "sha256": "6eed02c5eb23a58494e9cb814bb9a891cd599500faafaa583a8b08ce09e1838b",
+      "rows": 35,
+      "note": "Research batch Q042: media in Madagascar, Myanmar, Mongolia and Mexico (35), drafted 19 Oct 2026, pending check"
     }
   ]
 }
