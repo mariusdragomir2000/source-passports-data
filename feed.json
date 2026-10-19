@@ -176,6 +176,12 @@
       "sha256": "fabf13965e4c299a1a371678f416f94c4b976f2f631e1849403c538b384f2182",
       "rows": 24,
       "note": "Research batch Q001: parties in Albania, Armenia, Azerbaijan, Bosnia and Herzegovina, Belarus (35) (3 new records), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19m.csv",
+      "sha256": "e1fd3c0e081dcea703ee67b61242d1274d4706e65871885ef323883f9679f600",
+      "rows": 43,
+      "note": "Research batch W1: Turkish media (43), drafted 19 Oct 2026, pending check"
     }
   ]
 }
