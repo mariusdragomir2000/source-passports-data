@@ -206,6 +206,12 @@
       "sha256": "978ab34ce042c2aded2334fb1652717d8a5c50083ed83a622a3251e27c9ac5fa",
       "rows": 35,
       "note": "Research batch Q011: EU businesses in AT, BE, CY, CZ and others (35), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-19r.csv",
+      "sha256": "80a989b01a083534833da4449efb9e65ae024fc00c980f9bb5197c6ba92e9a03",
+      "rows": 18,
+      "note": "Research batch Q015: EU businesses in Sweden, Slovenia and Slovakia (18), drafted 19 Oct 2026, pending check"
     }
   ]
 }
