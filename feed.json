@@ -1100,6 +1100,12 @@
       "sha256": "737fbd63b3b2b929d50b5e9d6cfbafa3d1e62bf7b64ea01bcc5aad767e7eec41",
       "rows": 6,
       "note": "Retry R01: party candidates in Albania, Armenia, Bosnia and Herzegovina, Belgium, Bulgaria, Canada, Chile and others (40) (6 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzz.csv",
+      "sha256": "8ae8e2c58ec59a14d65e712504ee66f6e623811b36d349ab240cebf024c7d9c2",
+      "rows": 11,
+      "note": "Retry R05: party candidates in Myanmar, Malawi, Malaysia, Mozambique, Panama, Papua New Guinea, Serbia and others (40) (11 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
