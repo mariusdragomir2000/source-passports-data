@@ -902,6 +902,12 @@
       "sha256": "87814488ab4379ba075eecba030c5931c268d996c6591677ca956333e2473539",
       "rows": 15,
       "note": "Second pass G017: parties in Bangladesh, Belgium, Botswana, Belarus and others (15) (4 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzs.csv",
+      "sha256": "5423b44a99a1447f4596603f4eb51ee176fcfecd8026a0d5bd03a8c6a56be333",
+      "rows": 13,
+      "note": "Second pass G015: media in the US, Uruguay and South Africa (13), drafted 20 Oct 2026, pending check"
     }
   ]
 }
