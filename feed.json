@@ -1172,6 +1172,12 @@
       "sha256": "6d778c558ee8d2ca4d0213837ee09846c209e9217b28008da982be71b323365d",
       "rows": 2,
       "note": "Ownership pass O011: media in Indonesia, Israel, India, Iceland and others (2), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzl.csv",
+      "sha256": "1a8ab30e4ea57b78356020a0380bde1e4c04599cc035bb37c0d28ea2b64f5de9",
+      "rows": 1,
+      "note": "Ownership pass O007: media in Costa Rica, Cape Verde and Cyprus (1), drafted 20 Oct 2026, pending check"
     }
   ]
 }
