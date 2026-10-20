@@ -1085,7 +1085,7 @@
     },
     {
       "file": "batches/source-passports-research-2026-10-20zzzw.csv",
-      "sha256": "55a77e5f1e9e0046492ba7298b19015ec546ca0b318dae75565331ded7417c7d",
+      "sha256": "951a791a2aff2f780a810a50f2e9f2984fd5d5af7e17b546cdea3510f7e62a4a",
       "rows": 1,
       "note": "Retry R07: party candidates in Zimbabwe (3) (1 new records), drafted 20 Oct 2026, pending check"
     }
