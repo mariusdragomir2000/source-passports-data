@@ -1130,6 +1130,12 @@
       "sha256": "1952fd065b3cab486520d04c889a9d08ecefbff29dae14dd901e4efa4c0e871c",
       "rows": 15,
       "note": "Retry R06: party candidates in Serbia, Slovakia, Suriname, Turkey, Ukraine, Zambia, Zimbabwe and others (40) (15 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzze.csv",
+      "sha256": "ed5348ee09f20515046ae529c326b4c68fda5abe6d71214746a37018a29ffc7c",
+      "rows": 14,
+      "note": "Retry R03: party candidates in Croatia, Hungary, Indonesia, Ireland, Israel, India, Iraq, Iran and others (40) (14 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
