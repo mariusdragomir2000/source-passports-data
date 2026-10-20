@@ -1226,6 +1226,12 @@
       "sha256": "0d15d9c198d74cb316bfcac0298bb0b77c1be9a267052d077c7282fdcc3a3d65",
       "rows": 13,
       "note": "New records X002: German national media (13 confirmed) (13 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzu.csv",
+      "sha256": "88e7bb8e12f1ce4e4a1eec3dbb8fedffd1aba4f7a9b73f85654a7771f2e33b9d",
+      "rows": 13,
+      "note": "New records X005: platforms and telecoms in Germany, Russia, China, New Zealand, Ethiopia and Vietnam (13) (13 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
