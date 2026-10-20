@@ -704,6 +704,12 @@
       "sha256": "d0676df606b9e4ee4ee523d1f44dd3261b2ce46c3730cb5383b85ac8d83a2acd",
       "rows": 35,
       "note": "Research batch Q089: businesses in the UAE, Angola, Argentina, Australia and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zl.csv",
+      "sha256": "74e5fa0184ee39fbe3ff44b7ad8756fdc15cd43f6a4e2eb2e343fd2ca878ffd4",
+      "rows": 35,
+      "note": "Research batch Q095: businesses in Malaysia, Nigeria, Nicaragua, Nepal and others (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
