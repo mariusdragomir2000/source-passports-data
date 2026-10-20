@@ -878,6 +878,12 @@
       "sha256": "5475a13df5f77fb2e5e2027cde1bd453b8dfda3b457b53d4caaea47600354673",
       "rows": 15,
       "note": "Second pass G008: media in Kazakhstan, Lebanon, Lithuania, Latvia and others (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzo.csv",
+      "sha256": "f568f000526cc38dd5895e3cc7c6be60e3d53fc85b4161c2bfc63f493ebeb315",
+      "rows": 15,
+      "note": "Second pass G011: media in Singapore, Slovenia and Senegal (15), drafted 20 Oct 2026, pending check"
     }
   ]
 }
