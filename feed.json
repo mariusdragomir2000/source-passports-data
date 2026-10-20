@@ -1196,6 +1196,12 @@
       "sha256": "186d38bd4dc6032d63069dc64aa05426f786eeb621e3232aa5c1ca0b8409b61d",
       "rows": 17,
       "note": "New records X003: German media groups and outlets (17) (17 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzp.csv",
+      "sha256": "a4f11a3a81ea3b4aca8f989baba10a20cc8b03632b0e31acd123c3d12e6636b3",
+      "rows": 3,
+      "note": "Ownership pass O013: media in South Korea, Kazakhstan and Lebanon (1), drafted 20 Oct 2026, pending check"
     }
   ]
 }
