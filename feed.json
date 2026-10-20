@@ -638,6 +638,12 @@
       "sha256": "cab24818ba60043e9327242ee5d5a3dfe7551c53d6e106bd6c74fa27570efa36",
       "rows": 35,
       "note": "Research batch Q082: platforms in the UAE, Angola, Argentina, Australia and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20za.csv",
+      "sha256": "6a803eeb70b09e936061e58c9009ae7950f4b9c6cf22e21d0a57c3956bba8a8b",
+      "rows": 1,
+      "note": "Correction batch: BTCL owner without the 51% figure, which came only from an aggregator summary, drafted 20 Oct 2026, pending check"
     }
   ]
 }
