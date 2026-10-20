@@ -1328,6 +1328,12 @@
       "sha256": "884c33b34a29e8e8973006452c5972f5d49defb2045100f17fe92ad186155052",
       "rows": 10,
       "note": "New records X023: Japanese media (10) (10 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20-n012.csv",
+      "sha256": "650a8d218445cd5be6fe2be4bdf9c378c10b9cac05ed1d512ea9a779a4c9e4c4",
+      "rows": 11,
+      "note": "New records X021: Indian media (11 confirmed) (11 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
