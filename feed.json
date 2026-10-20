@@ -824,6 +824,12 @@
       "sha256": "b05181f5bec2329ce648b1fbf9b34e2a9e0e520ce3deab3db8cfc524b37aa8de",
       "rows": 15,
       "note": "Second pass G002: media in Azerbaijan, Bosnia and Herzegovina, Belgium, Bulgaria, Brazil, Canada and others (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzf.csv",
+      "sha256": "bc777b828ade4dabea8d39e7ac105176ad35a4d13c27cb8589e499ce5ec6bd26",
+      "rows": 15,
+      "note": "Second pass G004: media in Cape Verde, Cyprus, Czechia, Estonia, Egypt, Georgia and others (15), drafted 20 Oct 2026, pending check"
     }
   ]
 }
