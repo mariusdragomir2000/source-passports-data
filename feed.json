@@ -1124,6 +1124,12 @@
       "sha256": "aca790e4398d4f1074f9eabc6d742889f9a3be9a80426ec42ff8d52c9010681b",
       "rows": 18,
       "note": "Ownership pass O005 and retry R02: media in Belarus, Canada and Chile; party candidates in Costa Rica, Cyprus, Czechia, Germany, Spain, Finland, France, Greece, Croatia and others (15 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzd.csv",
+      "sha256": "1952fd065b3cab486520d04c889a9d08ecefbff29dae14dd901e4efa4c0e871c",
+      "rows": 15,
+      "note": "Retry R06: party candidates in Serbia, Slovakia, Suriname, Turkey, Ukraine, Zambia, Zimbabwe and others (40) (15 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
