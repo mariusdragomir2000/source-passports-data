@@ -1298,6 +1298,12 @@
       "sha256": "cae4535adbb69e0e4332c3968dc417fcc6c5eb1de9bf21deb144a0ab928541fb",
       "rows": 3,
       "note": "New records X016: media in Cuba and Venezuela (3 confirmed) (3 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20-n007.csv",
+      "sha256": "a21ba83bd02b792c34528fea2bcbc41f6669c402e6e9fddcb37c901fd46bc31b",
+      "rows": 8,
+      "note": "New records X015: media in DR Congo, Mali, Burkina Faso, Chad and Guinea (8 confirmed) (8 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
