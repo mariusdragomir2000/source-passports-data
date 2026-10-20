@@ -1268,6 +1268,12 @@
       "sha256": "9d9b3f4ed02b26b69d4dfcfc3c484917530db06bed6d5f2e89f3195956889847",
       "rows": 9,
       "note": "New records X011: media in Iraq and Vietnam (9 confirmed) (9 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20-n002.csv",
+      "sha256": "d97768160364bdae2cb6456328308ee89f6a123e74be9272ff3455491045d232",
+      "rows": 7,
+      "note": "New records X014: media in Afghanistan, Sudan, South Sudan and Somalia (7 confirmed) (7 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
