@@ -866,6 +866,12 @@
       "sha256": "3ccaec993e0e71364a9a635c1303403ae21b94e40615330f7e0b35180a6eb753",
       "rows": 15,
       "note": "Second pass G001: media in Albania, Armenia, Angola, Argentina and others (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzm.csv",
+      "sha256": "15892955c6123661842a52fbd4870ec39b0149cf259abdf7edd564af73a6f5e1",
+      "rows": 15,
+      "note": "Second pass G006: media in Indonesia, Israel, India and Jordan (15), drafted 20 Oct 2026, pending check"
     }
   ]
 }
