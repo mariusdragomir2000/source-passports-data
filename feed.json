@@ -770,6 +770,12 @@
       "sha256": "531e8b34fa066542a9d5d9a92e5e712bbd39d5710ed78739695255d7fc41e342",
       "rows": 18,
       "note": "Research batch Q103: agencies in Singapore, El Salvador, Thailand, Tunisia, Taiwan, the US and Uruguay (18), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zw.csv",
+      "sha256": "d86597d85cd1a0515fd2eef95e4496b1af27fb30c8e098bcdb11e9d7d9ea0112",
+      "rows": 35,
+      "note": "Research batch Q083: platforms in Cameroon, Colombia, Costa Rica, Cape Verde and others (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
