@@ -572,6 +572,12 @@
       "sha256": "ba0f6f8608c527f12e99bb397d944b0a5450777d13aec845a7ce9be84a1f3691",
       "rows": 32,
       "note": "Research batch Q062: parties in Liberia, Lesotho, Morocco, Madagascar, Mongolia, Myanmar, Mauritius and others (35 checked) (13 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20p.csv",
+      "sha256": "87163ab727487e97713c0caad06c96264b5d24607233c3006081cc17379190c3",
+      "rows": 30,
+      "note": "Research batch Q066: parties in Pakistan, Paraguay, Rwanda, Solomon Islands, Seychelles, Singapore and others (35 checked) (15 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
