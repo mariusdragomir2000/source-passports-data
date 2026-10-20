@@ -944,6 +944,12 @@
       "sha256": "d04e1fb80c3398596a4ddc80e9925e170bbd009eee8c0f36ff5d98dbcf578fd7",
       "rows": 15,
       "note": "Second pass G019: parties in Cape Verde, Algeria, Ecuador, Egypt, Fiji, Georgia and others (15) (5 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzz.csv",
+      "sha256": "cad3e75c6730bc529fabbbdeb5aa646576ca4f8af3c771207e3368067eb12c68",
+      "rows": 15,
+      "note": "Second pass G023: parties in Myanmar, Montserrat, Mauritius, Malaysia, Nigeria, Nepal and others (15) (4 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
