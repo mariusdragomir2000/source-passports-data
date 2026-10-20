@@ -926,6 +926,12 @@
       "sha256": "384f410ab2766778048506117783501c5860942047716378a9b35922aaeb82fc",
       "rows": 15,
       "note": "Second pass G014: media in Turkey, Tanzania, Uganda and the US (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzw.csv",
+      "sha256": "af538510db59c7462f6c23544838008268ded86df9a814698e78f10330b9c2a6",
+      "rows": 15,
+      "note": "Second pass G018: parties in Congo, Côte d'Ivoire, Chile, Costa Rica, Cape Verde and others (15) (7 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
