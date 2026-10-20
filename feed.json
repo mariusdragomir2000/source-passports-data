@@ -962,6 +962,12 @@
       "sha256": "71d9daab5118fb0edd6963fd91af20539d8b0f075e4a91646e30377da514f337",
       "rows": 15,
       "note": "Second pass G022: parties in Lebanon, Liberia, Moldova, Montenegro and others (15) (4 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzc.csv",
+      "sha256": "7f0eff4445fffea58ed208ae16aeaaeb12a0402f768cb4b53e92df9c7be2fd87",
+      "rows": 34,
+      "note": "Second pass G021, G025, G027: parties in Cambodia, South Korea, Lebanon, Singapore, Senegal, Suriname, El Salvador, Thailand, South Africa and Zimbabwe (34) (9 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
