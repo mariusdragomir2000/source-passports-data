@@ -560,6 +560,12 @@
       "sha256": "1d12b7dda695da3e7ece84b7e0304691a158f1a39b01659ebce7330676b1714b",
       "rows": 17,
       "note": "Research batch Q067: parties in Suriname, Sao Tome, El Salvador, Syria, Thailand, Togo and others (35 checked) (7 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20n.csv",
+      "sha256": "31b41e1be48f36c1a9dfb5c1bd322ecbbfb2bfa09adea2140495e6e180998b97",
+      "rows": 20,
+      "note": "Research batch Q063: parties in the Maldives, Malawi, Mexico, Malaysia, Mozambique, Namibia and others (35 checked) (7 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
