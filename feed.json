@@ -644,6 +644,12 @@
       "sha256": "6a803eeb70b09e936061e58c9009ae7950f4b9c6cf22e21d0a57c3956bba8a8b",
       "rows": 1,
       "note": "Correction batch: BTCL owner without the 51% figure, which came only from an aggregator summary, drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zb.csv",
+      "sha256": "a924576ac29bf64cd94452959fd6a759ccb8188d5f33455aa6d8e332f8eff66a",
+      "rows": 35,
+      "note": "Research batch Q080: public bodies in Panama, Peru, the Philippines, Pakistan and others (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
