@@ -992,6 +992,12 @@
       "sha256": "4e40fb629d30f76c57a6308e433d6242940be0524fd2da930988219370b781ea",
       "rows": 15,
       "note": "Second pass G029: platforms in Finland, Georgia, Indonesia, Israel, Kenya, Kyrgyzstan and others (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzh.csv",
+      "sha256": "ffdd2d87ec16563f8d2c15a7b230339f421c8b6323af8df5a6e135d23431e14c",
+      "rows": 15,
+      "note": "Second pass G031: platforms in Mexico, Malaysia, Nigeria, the Netherlands, the Philippines, Pakistan, Slovenia, El Salvador, Senegal and others (15), drafted 20 Oct 2026, pending check"
     }
   ]
 }
