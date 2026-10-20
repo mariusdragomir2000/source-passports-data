@@ -782,6 +782,12 @@
       "sha256": "c07d83a28b8141867b02413733badd39d5daa581b1b456e06a47f53501870622",
       "rows": 17,
       "note": "Research batch Q099: businesses in South Africa and Zimbabwe (17), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zy.csv",
+      "sha256": "b8b74a2050574d53352ad04da8ffcfdf421e7b7e9cccebb5f985815a0cfeb2af",
+      "rows": 35,
+      "note": "Research batch Q102: agencies in Sri Lanka, Morocco, Myanmar, Mexico, Pakistan, Saudi Arabia and others (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
