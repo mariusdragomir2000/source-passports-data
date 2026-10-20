@@ -650,6 +650,12 @@
       "sha256": "a924576ac29bf64cd94452959fd6a759ccb8188d5f33455aa6d8e332f8eff66a",
       "rows": 35,
       "note": "Research batch Q080: public bodies in Panama, Peru, the Philippines, Pakistan and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zc.csv",
+      "sha256": "3966c1489e0de2a6c72f449da9a8e64bb5519c7e7b67bc917e43d672920e52b2",
+      "rows": 12,
+      "note": "Research batch Q081: public bodies in the US, Uruguay, South Africa and Zimbabwe (12), drafted 20 Oct 2026, pending check"
     }
   ]
 }
