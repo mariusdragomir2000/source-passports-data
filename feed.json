@@ -1016,6 +1016,12 @@
       "sha256": "b9720f3773a308adcce38568cb768a656d7826a0a1aec10741a071119ca182ba",
       "rows": 15,
       "note": "Second pass G028: platforms in Armenia, Angola, Austria, Azerbaijan, Bangladesh, Belarus, Chile and others (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzl.csv",
+      "sha256": "6180de05f932ba79dbed610109e952e653a06421983033da2f021acc724b1be0",
+      "rows": 15,
+      "note": "Second pass G037: businesses in Panama, Pakistan, Qatar, Romania, Rwanda and others (15), drafted 20 Oct 2026, pending check"
     }
   ]
 }
