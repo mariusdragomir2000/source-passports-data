@@ -716,6 +716,12 @@
       "sha256": "682d66557cdad3631301179d6704a2e062ff11cf394f68eddf96a5fbf31d486c",
       "rows": 35,
       "note": "Research batch Q093: businesses in Kenya, Kyrgyzstan, Cambodia, South Korea and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zn.csv",
+      "sha256": "8d1e1a834797eb48cda790823959bd0285a1fcc28a426e195e41d7ac057f9eb3",
+      "rows": 35,
+      "note": "Research batch Q085: platforms in South Korea, Kazakhstan, Lebanon, Sri Lanka and others (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
