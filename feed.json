@@ -860,6 +860,12 @@
       "sha256": "49a0abf05511115638f32b379b3cc21927f0ba72dc348c60d497a326a386c2c6",
       "rows": 25,
       "note": "Research batch Q108: civil society in Tunisia, Taiwan, Tanzania, Uganda, the US, South Africa and others (25), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzl.csv",
+      "sha256": "3ccaec993e0e71364a9a635c1303403ae21b94e40615330f7e0b35180a6eb753",
+      "rows": 15,
+      "note": "Second pass G001: media in Albania, Armenia, Angola, Argentina and others (15), drafted 20 Oct 2026, pending check"
     }
   ]
 }
