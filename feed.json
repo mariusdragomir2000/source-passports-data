@@ -614,6 +614,12 @@
       "sha256": "4e00cfdf87d2fa6d1a9152fa57a9d01b2683c24216f39dd0ce80c9f47fc685a6",
       "rows": 35,
       "note": "Research batch Q071: regulators in the UAE, Angola, Argentina, Australia and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20w.csv",
+      "sha256": "b7cd1b2c61d384942e6ddb0a940c517105bd9de852e01c9a7e22d598631050bb",
+      "rows": 35,
+      "note": "Research batch Q077: public bodies in the UAE, Angola, Argentina, Australia and others (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
