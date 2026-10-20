@@ -530,6 +530,12 @@
       "sha256": "720341046c7d5b83c476e6c1809cbdc14dd8780e3559e168f28944a7007e24d5",
       "rows": 24,
       "note": "Research batch Q060: parties in Jordan, Japan, Kenya, Kyrgyzstan and others (35 checked) (2 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20i.csv",
+      "sha256": "2628a0e3a82ec9adc8b7ac5adc9df61e39697026c362a5f1d812479f946841a4",
+      "rows": 32,
+      "note": "Research batch Q061: parties in South Korea, Kazakhstan, Laos, Lebanon, Liberia, Sri Lanka and others (35 checked) (9 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
