@@ -1250,6 +1250,12 @@
       "sha256": "0a2df8336c68f19e212a8bd760a2aa32dfcc08eeafe25f48d2a3377020d88a48",
       "rows": 22,
       "note": "New records X006 and X012: Russian media (14) and press councils and journalism bodies in Germany, New Zealand and Kosovo (8) (22 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzy.csv",
+      "sha256": "4e6559c2a423ce596562472c7e3825e4fcae1c0813d37518eec904de71392861",
+      "rows": 6,
+      "note": "New records X009: Kosovo media (6 confirmed) (6 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
