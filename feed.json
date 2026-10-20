@@ -1106,6 +1106,12 @@
       "sha256": "8ae8e2c58ec59a14d65e712504ee66f6e623811b36d349ab240cebf024c7d9c2",
       "rows": 11,
       "note": "Retry R05: party candidates in Myanmar, Malawi, Malaysia, Mozambique, Panama, Papua New Guinea, Serbia and others (40) (11 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzza.csv",
+      "sha256": "826f73fbdef1c48e978bdbd75c15a58cd866ff2b153fda90b98b7ab58904666b",
+      "rows": 1,
+      "note": "Ownership pass O001: media in the UAE, Albania, Armenia, Angola and others (1), drafted 20 Oct 2026, pending check"
     }
   ]
 }
