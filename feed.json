@@ -536,6 +536,12 @@
       "sha256": "2628a0e3a82ec9adc8b7ac5adc9df61e39697026c362a5f1d812479f946841a4",
       "rows": 32,
       "note": "Research batch Q061: parties in South Korea, Kazakhstan, Laos, Lebanon, Liberia, Sri Lanka and others (35 checked) (9 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20j.csv",
+      "sha256": "8ca9fbad669458ab8bf84c7c53cdf94bb2951cbfa1ad06d9540e49f3c0d89fcd",
+      "rows": 19,
+      "note": "Research batch Q065: parties in Peru, Papua New Guinea, the Philippines and Pakistan (35 checked) (6 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
