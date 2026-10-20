@@ -1052,6 +1052,12 @@
       "sha256": "07dedc72c619e1c080680b1ba6dc777d2af9f123451c91dfcb31734a6f3446aa",
       "rows": 15,
       "note": "Second pass G030: platforms in Cambodia, South Korea, Lebanon, Lithuania, Latvia, Morocco, Madagascar, Mongolia, Malta and others (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzr.csv",
+      "sha256": "1d6e4cbf6863ff70027da94b6a5c5f16daf2fcb99280dc54677101a5cb53cdd2",
+      "rows": 4,
+      "note": "Second pass G038: businesses in Senegal, Thailand and Ukraine (4), drafted 20 Oct 2026, pending check"
     }
   ]
 }
