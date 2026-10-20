@@ -884,6 +884,12 @@
       "sha256": "f568f000526cc38dd5895e3cc7c6be60e3d53fc85b4161c2bfc63f493ebeb315",
       "rows": 15,
       "note": "Second pass G011: media in Singapore, Slovenia and Senegal (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzp.csv",
+      "sha256": "03984715c15e3c81baf5f666625f36e1c0dd4ce4d0bc17a8e1f1807c894e5a48",
+      "rows": 15,
+      "note": "Second pass G009: media in Montenegro, North Macedonia, Oman and Peru (15), drafted 20 Oct 2026, pending check"
     }
   ]
 }
