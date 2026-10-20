@@ -1064,6 +1064,12 @@
       "sha256": "78f2484a7bc1b9157e835fba19bfc93aa306957d4a755f90a4a200331e13b6eb",
       "rows": 15,
       "note": "Second pass G043: regulators in Armenia, Azerbaijan, Costa Rica, Cape Verde, Gabon, Kyrgyzstan, South Korea, Kazakhstan, Lebanon, Montenegro, North Macedonia and Panama (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzt.csv",
+      "sha256": "7c4249853a7342cee3f3f670babf157f090bb804fc8e2034f3bc7d036bcf84be",
+      "rows": 6,
+      "note": "Second pass G046: civil society in Austria, Azerbaijan, Belarus, the UK, Georgia and others (6), drafted 20 Oct 2026, pending check"
     }
   ]
 }
