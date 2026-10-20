@@ -548,6 +548,12 @@
       "sha256": "9ff96c262f964398cc88364973a748d0787b4b007df5422bc5509253e3ce404b",
       "rows": 1,
       "note": "Research batch Q070: Zimbabwe parties (1), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20l.csv",
+      "sha256": "0b24962a889ea29adf8eb1f4feab4c7d4e5f4dd3199b78fdae95118a305d29dd",
+      "rows": 26,
+      "note": "Research batch Q064: parties in Niger, Nigeria, Nicaragua, Nepal, New Zealand, Panama, Peru and others (35 checked) (7 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
