@@ -692,6 +692,12 @@
       "sha256": "4da76b588d2da505ac1326cd46afe2803cd12ce4113d3ac847b127d78cd76dcf",
       "rows": 35,
       "note": "Research batch Q092: businesses in Ghana, Guatemala, Honduras, Indonesia and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zj.csv",
+      "sha256": "0faee154de4abf20cd0e84332b9d7d7a5156be24a426cf9cbfac1e0219166914",
+      "rows": 35,
+      "note": "Research batch Q087: platforms in Pakistan, Qatar, Rwanda, Saudi Arabia and others (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
