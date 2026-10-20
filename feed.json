@@ -1178,6 +1178,12 @@
       "sha256": "1a8ab30e4ea57b78356020a0380bde1e4c04599cc035bb37c0d28ea2b64f5de9",
       "rows": 1,
       "note": "Ownership pass O007: media in Costa Rica, Cape Verde and Cyprus (1), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzm.csv",
+      "sha256": "eb9b5568847d170849237f93b7c64ffaa416bb46b7df42e401716c6933940a76",
+      "rows": 3,
+      "note": "Ownership pass O010: media in Ghana, Greece, Guatemala, Honduras and others (3), drafted 20 Oct 2026, pending check"
     }
   ]
 }
