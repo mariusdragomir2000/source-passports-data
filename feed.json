@@ -578,6 +578,12 @@
       "sha256": "87163ab727487e97713c0caad06c96264b5d24607233c3006081cc17379190c3",
       "rows": 30,
       "note": "Research batch Q066: parties in Pakistan, Paraguay, Rwanda, Solomon Islands, Seychelles, Singapore and others (35 checked) (15 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20q.csv",
+      "sha256": "3b876bdf69321aad8bde782ca4124618528a613a4fc0bf47d1fdc818bf00ff84",
+      "rows": 35,
+      "note": "Research batch Q041: media in Lebanon, Sri Lanka, Morocco and Madagascar (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
