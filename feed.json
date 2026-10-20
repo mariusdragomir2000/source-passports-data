@@ -842,6 +842,12 @@
       "sha256": "518db0ca9e4cb8c24774843ae075a16eb810113eb5715890e3dc36c7488cf356",
       "rows": 15,
       "note": "Second pass G005: media in Georgia, Ghana, Greece, Guatemala, Croatia and others (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzi.csv",
+      "sha256": "d7079f5655b945d339b834bcf17355dd2cd39fa2f067fd7223ae08da710e7556",
+      "rows": 15,
+      "note": "Second pass G003: media in Canada, Chile, Cameroon, Colombia and others (15), drafted 20 Oct 2026, pending check"
     }
   ]
 }
