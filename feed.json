@@ -1262,6 +1262,12 @@
       "sha256": "2891c9089bac44063b04b5dd10a1073a5689d4b19c819580731380b7f15a73c0",
       "rows": 6,
       "note": "New records X013: media in Algeria and Syria (6 confirmed) (6 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20-n001.csv",
+      "sha256": "9d9b3f4ed02b26b69d4dfcfc3c484917530db06bed6d5f2e89f3195956889847",
+      "rows": 9,
+      "note": "New records X011: media in Iraq and Vietnam (9 confirmed) (9 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
