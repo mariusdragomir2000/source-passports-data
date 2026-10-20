@@ -998,6 +998,12 @@
       "sha256": "ffdd2d87ec16563f8d2c15a7b230339f421c8b6323af8df5a6e135d23431e14c",
       "rows": 15,
       "note": "Second pass G031: platforms in Mexico, Malaysia, Nigeria, the Netherlands, the Philippines, Pakistan, Slovenia, El Salvador, Senegal and others (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzi.csv",
+      "sha256": "7c2916956bb3330106eddb52c7cf97a14c0123f9818f64d4e6ad735d5f6a52be",
+      "rows": 15,
+      "note": "Second pass G034: businesses in Colombia, Czechia, Denmark, Israel, Japan, Kenya, Kyrgyzstan and others (15), drafted 20 Oct 2026, pending check"
     }
   ]
 }
