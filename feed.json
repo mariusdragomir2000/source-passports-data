@@ -1040,6 +1040,12 @@
       "sha256": "ca535ef7e0e13a0dd2cee72cf105bddb029f0a0d272ba4446b1537b5d1edcb55",
       "rows": 15,
       "note": "Second pass G040: public bodies in Honduras, Indonesia, Israel, Jordan, Kyrgyzstan, Sri Lanka, Myanmar, Mexico and others (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzp.csv",
+      "sha256": "370d1cacb62a7f04e8797c6d0b955f298a48c81a4ef550152bb1c903b1085ef7",
+      "rows": 15,
+      "note": "Second pass G039: public bodies in Australia, Bangladesh, Brazil, Chile, Colombia, Costa Rica, Egypt, Gabon, Ghana, Guatemala and Honduras (15), drafted 20 Oct 2026, pending check"
     }
   ]
 }
