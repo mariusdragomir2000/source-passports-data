@@ -740,6 +740,12 @@
       "sha256": "09f4561f04695933cf3c30ba163700b2df3f3eb223c567396ae800d526b17824",
       "rows": 35,
       "note": "Research batch Q097: businesses in Saudi Arabia, Singapore, Senegal, El Salvador and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zr.csv",
+      "sha256": "4ecc27554c71c418aec37016c7a150aae5a8faa25f8a4fbf88c8102c44d7cc70",
+      "rows": 26,
+      "note": "Research batch Q088: platforms in Tanzania, Uganda, the US, Uruguay, South Africa and Zimbabwe (26), drafted 20 Oct 2026, pending check"
     }
   ]
 }
