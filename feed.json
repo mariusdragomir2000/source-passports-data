@@ -848,6 +848,12 @@
       "sha256": "d7079f5655b945d339b834bcf17355dd2cd39fa2f067fd7223ae08da710e7556",
       "rows": 15,
       "note": "Second pass G003: media in Canada, Chile, Cameroon, Colombia and others (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzj.csv",
+      "sha256": "35e7fe8479775ec760415f9034721a5f8c273e08729a8883eca66be9046f0f93",
+      "rows": 15,
+      "note": "Second pass G007: media in Jordan, Kenya, Kyrgyzstan, Cambodia, South Korea and others (15), drafted 20 Oct 2026, pending check"
     }
   ]
 }
