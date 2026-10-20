@@ -602,6 +602,12 @@
       "sha256": "3b602964a639bf35208503a4b3493d8b46c639e312592f0e62ae7d4e60b5b790",
       "rows": 31,
       "note": "Research batch Q068: parties in Tajikistan, Timor-Leste, Turkmenistan, Tunisia, the US and others (35 checked) (19 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20u.csv",
+      "sha256": "7d197d33edb4c8584ae85405d27d01d7d2e6cc4563ea59917a5f2504507f8906",
+      "rows": 18,
+      "note": "Research batch Q069: parties in Uruguay, Uzbekistan, Venezuela, Vietnam, South Africa and others (35 checked) (5 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
