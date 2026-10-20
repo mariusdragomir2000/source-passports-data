@@ -776,6 +776,12 @@
       "sha256": "d86597d85cd1a0515fd2eef95e4496b1af27fb30c8e098bcdb11e9d7d9ea0112",
       "rows": 35,
       "note": "Research batch Q083: platforms in Cameroon, Colombia, Costa Rica, Cape Verde and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zx.csv",
+      "sha256": "c07d83a28b8141867b02413733badd39d5daa581b1b456e06a47f53501870622",
+      "rows": 17,
+      "note": "Research batch Q099: businesses in South Africa and Zimbabwe (17), drafted 20 Oct 2026, pending check"
     }
   ]
 }
