@@ -518,6 +518,12 @@
       "sha256": "0a7e8da6622a6c1e468a1e096760d3d6d0d0179e45db69f750511130caaf1a2a",
       "rows": 28,
       "note": "Research batch Q054: parties in Brazil, Botswana, Canada, Central African Republic, Chile and others (35 checked) (14 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20g.csv",
+      "sha256": "34824a0abe19d270c89d4c2c5e054c4f45b4484363e42823371234b10fc23159",
+      "rows": 18,
+      "note": "Research batch Q057: parties in Guatemala, Guinea-Bissau, Guyana, Hong Kong and others (35 checked) (6 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
