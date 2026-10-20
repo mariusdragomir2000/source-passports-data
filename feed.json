@@ -1310,6 +1310,12 @@
       "sha256": "0943772a6b2c1140484a1575331c5a01a795c9cf2d83fef71d54ec4edf6b0a07",
       "rows": 11,
       "note": "New records X022: Brazilian media (11 confirmed) (11 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20-n009.csv",
+      "sha256": "22a506b9059b1c946204f1fe40813a059eccded9c77e321e24d6c526a23f4da8",
+      "rows": 9,
+      "note": "New records X019: US media (9 confirmed) (9 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
