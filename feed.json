@@ -590,6 +590,12 @@
       "sha256": "5c2774e5df9e5dc8dbf5a55cb2e7f851a62761ca6abff53a0edfc50e94bfb6e9",
       "rows": 35,
       "note": "Research batch Q074: regulators in Madagascar, Myanmar, Mongolia, Mexico and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20s.csv",
+      "sha256": "f92d012eddd4637337b59ea44dd23b94d9e723df445db70054d813bc661363a8",
+      "rows": 35,
+      "note": "Research batch Q072: regulators in Cape Verde, Egypt, Gabon, Ghana and others (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
