@@ -1238,6 +1238,12 @@
       "sha256": "278292fce1b5b8428fef7c56a1c9be9800bb19fec74571785717a43babcc4241",
       "rows": 2,
       "note": "New records X008: Iranian media (2 confirmed) (2 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzw.csv",
+      "sha256": "aff71a18dfc0a2869bd71827baba535486db6e709cbf8590e2cebc8c0efb8c5d",
+      "rows": 9,
+      "note": "New records X007: Chinese media (9 confirmed) (9 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
