@@ -1214,6 +1214,12 @@
       "sha256": "5298257d88f94254ae1e88ce6682b4518fbb6f99c0ca2e0f59e603f8a5db78cc",
       "rows": 19,
       "note": "New records X004: regulators in Germany, Russia, China, Kosovo, New Zealand, Ethiopia and Iraq (19) (19 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzs.csv",
+      "sha256": "3c33f0f6d7d5dbc70e5bee802614876578e63cd71e91d0b7926b35ffd80d66f8",
+      "rows": 13,
+      "note": "New records X001: German public broadcasters (13) (13 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
