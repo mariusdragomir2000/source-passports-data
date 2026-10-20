@@ -722,6 +722,12 @@
       "sha256": "8d1e1a834797eb48cda790823959bd0285a1fcc28a426e195e41d7ac057f9eb3",
       "rows": 35,
       "note": "Research batch Q085: platforms in South Korea, Kazakhstan, Lebanon, Sri Lanka and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zo.csv",
+      "sha256": "6c1fc24d9d1bb2858c83ca4e462e566ca4044ac3243f6ce4954586893ace4ad3",
+      "rows": 35,
+      "note": "Research batch Q090: businesses in Brazil, Botswana, Canada, Chile and others (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
