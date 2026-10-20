@@ -956,6 +956,12 @@
       "sha256": "4f059efd09d114b08178361285e0ba03867414034bfa4fbec17bef6034b94308",
       "rows": 15,
       "note": "Second pass G020: parties in Georgia, Ghana, the Gambia, Equatorial Guinea, Guatemala, Jordan and others (15) (4 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzb.csv",
+      "sha256": "71d9daab5118fb0edd6963fd91af20539d8b0f075e4a91646e30377da514f337",
+      "rows": 15,
+      "note": "Second pass G022: parties in Lebanon, Liberia, Moldova, Montenegro and others (15) (4 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
