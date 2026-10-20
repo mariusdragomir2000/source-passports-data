@@ -1184,6 +1184,12 @@
       "sha256": "eb9b5568847d170849237f93b7c64ffaa416bb46b7df42e401716c6933940a76",
       "rows": 3,
       "note": "Ownership pass O010: media in Ghana, Greece, Guatemala, Honduras and others (3), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzn.csv",
+      "sha256": "09a80d0b17b86e9f358f55e742c0b7995b50b8a48a65e18eea09fec71c6d646c",
+      "rows": 3,
+      "note": "Ownership pass O008: media in Cyprus, Egypt, Spain and Finland (3), drafted 20 Oct 2026, pending check"
     }
   ]
 }
