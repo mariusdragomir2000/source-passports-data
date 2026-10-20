@@ -1220,6 +1220,12 @@
       "sha256": "3c33f0f6d7d5dbc70e5bee802614876578e63cd71e91d0b7926b35ffd80d66f8",
       "rows": 13,
       "note": "New records X001: German public broadcasters (13) (13 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzt.csv",
+      "sha256": "0d15d9c198d74cb316bfcac0298bb0b77c1be9a267052d077c7282fdcc3a3d65",
+      "rows": 13,
+      "note": "New records X002: German national media (13 confirmed) (13 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
