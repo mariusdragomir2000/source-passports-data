@@ -890,6 +890,12 @@
       "sha256": "03984715c15e3c81baf5f666625f36e1c0dd4ce4d0bc17a8e1f1807c894e5a48",
       "rows": 15,
       "note": "Second pass G009: media in Montenegro, North Macedonia, Oman and Peru (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzq.csv",
+      "sha256": "2301faeaa04016ac9ce94e0096af4fb17c1c9eafc4a5b31d098c3722590e65f3",
+      "rows": 15,
+      "note": "Second pass G012: media in Senegal and El Salvador (15), drafted 20 Oct 2026, pending check"
     }
   ]
 }
