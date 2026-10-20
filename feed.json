@@ -1280,6 +1280,12 @@
       "sha256": "68b599fc804b6ca0db526403dabc4a087a5503f868bde8b56719dd63aa61ce50",
       "rows": 5,
       "note": "New records X018: Süddeutsche Zeitung, Focus, Stern, n-tv, RedaktionsNetzwerk Deutschland (5) (5 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20-n004.csv",
+      "sha256": "61ea6f785d2c6ddb537185af6af82185fc14c2e3e6488abd6fc658708b335337",
+      "rows": 9,
+      "note": "New records X010: media in New Zealand and Ethiopia (9 confirmed) (9 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
