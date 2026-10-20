@@ -728,6 +728,12 @@
       "sha256": "6c1fc24d9d1bb2858c83ca4e462e566ca4044ac3243f6ce4954586893ace4ad3",
       "rows": 35,
       "note": "Research batch Q090: businesses in Brazil, Botswana, Canada, Chile and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zp.csv",
+      "sha256": "786cb20ad30dd9677e6a83bf1c152ccbd92e4b2f1e23e6d97dc2c1b57f2d148a",
+      "rows": 35,
+      "note": "Research batch Q094: businesses in Sri Lanka, Morocco, Madagascar, Myanmar, Mongolia and others (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
