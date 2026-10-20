@@ -1208,6 +1208,12 @@
       "sha256": "ba66d65d127368d82750ba425e2fedf8b6b938ed90ff4de23bf0a70842710765",
       "rows": 5,
       "note": "Ownership pass O009: media in France, Gabon, the UK, Georgia and others (5), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzr.csv",
+      "sha256": "5298257d88f94254ae1e88ce6682b4518fbb6f99c0ca2e0f59e603f8a5db78cc",
+      "rows": 19,
+      "note": "New records X004: regulators in Germany, Russia, China, Kosovo, New Zealand, Ethiopia and Iraq (19) (19 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
