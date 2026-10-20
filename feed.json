@@ -1256,6 +1256,12 @@
       "sha256": "4e6559c2a423ce596562472c7e3825e4fcae1c0813d37518eec904de71392861",
       "rows": 6,
       "note": "New records X009: Kosovo media (6 confirmed) (6 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzz.csv",
+      "sha256": "2891c9089bac44063b04b5dd10a1073a5689d4b19c819580731380b7f15a73c0",
+      "rows": 6,
+      "note": "New records X013: media in Algeria and Syria (6 confirmed) (6 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
