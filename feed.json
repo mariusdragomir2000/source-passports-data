@@ -674,6 +674,12 @@
       "sha256": "7965dc6ad57b33c86e3a381a2b5dfb0dd4c6a2196dcdd67e56181af7d802afe9",
       "rows": 35,
       "note": "Research batch Q079: public bodies in South Korea, Kazakhstan, Lebanon, Sri Lanka and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zg.csv",
+      "sha256": "3073903dfad9a07bd3f5fa915ff60713444e7bfcd2fe44919a6346d570586643",
+      "rows": 35,
+      "note": "Research batch Q084: platforms in Indonesia, Israel, India, Jordan and others (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
