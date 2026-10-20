@@ -1322,6 +1322,12 @@
       "sha256": "5a0691041b4985ec1ba5e3b78daf71e02fae8cbe1c6988e7582ad3dd754a0adc",
       "rows": 15,
       "note": "New records X020: UK and French media (15 confirmed) (15 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20-n011.csv",
+      "sha256": "884c33b34a29e8e8973006452c5972f5d49defb2045100f17fe92ad186155052",
+      "rows": 10,
+      "note": "New records X023: Japanese media (10) (10 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
