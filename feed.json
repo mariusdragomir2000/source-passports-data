@@ -1028,6 +1028,12 @@
       "sha256": "aae007703593c7a3659e09a6405233e3caa3d4af87093177c1b761607fc9f736",
       "rows": 15,
       "note": "Second pass G035: businesses in Lebanon, Sri Lanka, Morocco, Montenegro, Madagascar, Malta, Myanmar and others (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzn.csv",
+      "sha256": "558f063a019712fad8be3cee5ed846b4fd94e8739ca4485ec043fbc4f931eced",
+      "rows": 1,
+      "note": "Second pass G042: public bodies in Tunisia (1), drafted 20 Oct 2026, pending check"
     }
   ]
 }
