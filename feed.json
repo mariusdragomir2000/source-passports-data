@@ -1142,6 +1142,12 @@
       "sha256": "5796075d298200243dcbf432ddf1d2f4eb08e6d5d1e6a20fbd79d84519224482",
       "rows": 11,
       "note": "Retry R04: party candidates in Iran, Italy, Japan, Kenya, Kiribati, Lebanon, Moldova, Montenegro, North Macedonia and others (40) (11 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzg.csv",
+      "sha256": "9ccf4d66fc4e292f1777069fcbb08e78ce7c6c94476f0f01f099dd12b98ec742",
+      "rows": 2,
+      "note": "Ownership pass O004: media in Bolivia, Brazil and Belarus (1), drafted 20 Oct 2026, pending check"
     }
   ]
 }
