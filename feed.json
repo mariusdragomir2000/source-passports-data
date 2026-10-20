@@ -950,6 +950,12 @@
       "sha256": "cad3e75c6730bc529fabbbdeb5aa646576ca4f8af3c771207e3368067eb12c68",
       "rows": 15,
       "note": "Second pass G023: parties in Myanmar, Montserrat, Mauritius, Malaysia, Nigeria, Nepal and others (15) (4 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzza.csv",
+      "sha256": "4f059efd09d114b08178361285e0ba03867414034bfa4fbec17bef6034b94308",
+      "rows": 15,
+      "note": "Second pass G020: parties in Georgia, Ghana, the Gambia, Equatorial Guinea, Guatemala, Jordan and others (15) (4 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
