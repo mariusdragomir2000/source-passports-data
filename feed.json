@@ -1160,6 +1160,12 @@
       "sha256": "2f784b414f5cea1e7265fc1e958c216aafcf61efa705e4790979b08b401592eb",
       "rows": 4,
       "note": "Ownership pass O003: media in Bangladesh, Belgium, Bulgaria and Bolivia (3), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzj.csv",
+      "sha256": "9003ca759a0162e9f65e1191cd95bc3c5827513cdfc3ae3538ba8f695b11daca",
+      "rows": 2,
+      "note": "Ownership pass O006: media in Chile, Cameroon, Colombia and Costa Rica (2), drafted 20 Oct 2026, pending check"
     }
   ]
 }
