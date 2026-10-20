@@ -1274,6 +1274,12 @@
       "sha256": "d97768160364bdae2cb6456328308ee89f6a123e74be9272ff3455491045d232",
       "rows": 7,
       "note": "New records X014: media in Afghanistan, Sudan, South Sudan and Somalia (7 confirmed) (7 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20-n003.csv",
+      "sha256": "68b599fc804b6ca0db526403dabc4a087a5503f868bde8b56719dd63aa61ce50",
+      "rows": 5,
+      "note": "New records X018: Süddeutsche Zeitung, Focus, Stern, n-tv, RedaktionsNetzwerk Deutschland (5) (5 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
