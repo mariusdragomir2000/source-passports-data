@@ -1112,6 +1112,12 @@
       "sha256": "826f73fbdef1c48e978bdbd75c15a58cd866ff2b153fda90b98b7ab58904666b",
       "rows": 1,
       "note": "Ownership pass O001: media in the UAE, Albania, Armenia, Angola and others (1), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzb.csv",
+      "sha256": "cecf2c2bcbea4fe4da581a6e89e7e08ef82dc096278fb4b6ad6034ac9afd5301",
+      "rows": 11,
+      "note": "Second pass G044: regulators in Qatar, Rwanda, Saudi Arabia, Senegal, Thailand and others (11), drafted 20 Oct 2026, pending check"
     }
   ]
 }
