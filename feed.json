@@ -1094,6 +1094,12 @@
       "sha256": "0fc88c0840ae219b37503813255656d964ffd474f2e9a8b9db7bbfa4c55c656c",
       "rows": 15,
       "note": "Second pass G041: public bodies in Mexico, Nicaragua, Nepal, Oman, Panama, the Philippines, Pakistan, Qatar, El Salvador and Thailand (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzy.csv",
+      "sha256": "737fbd63b3b2b929d50b5e9d6cfbafa3d1e62bf7b64ea01bcc5aad767e7eec41",
+      "rows": 6,
+      "note": "Retry R01: party candidates in Albania, Armenia, Bosnia and Herzegovina, Belgium, Bulgaria, Canada, Chile and others (40) (6 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
