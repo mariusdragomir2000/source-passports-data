@@ -1004,6 +1004,12 @@
       "sha256": "7c2916956bb3330106eddb52c7cf97a14c0123f9818f64d4e6ad735d5f6a52be",
       "rows": 15,
       "note": "Second pass G034: businesses in Colombia, Czechia, Denmark, Israel, Japan, Kenya, Kyrgyzstan and others (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzj.csv",
+      "sha256": "a8a40f655f0acb8d5d597fe03fc467e55b0fa5ade37683645dcbb5a1a02d8619",
+      "rows": 15,
+      "note": "Second pass G033: businesses in the UAE, Angola, Argentina, Austria, Australia, Bangladesh, Belarus, Colombia and others (15), drafted 20 Oct 2026, pending check"
     }
   ]
 }
