@@ -542,6 +542,12 @@
       "sha256": "8ca9fbad669458ab8bf84c7c53cdf94bb2951cbfa1ad06d9540e49f3c0d89fcd",
       "rows": 19,
       "note": "Research batch Q065: parties in Peru, Papua New Guinea, the Philippines and Pakistan (35 checked) (6 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20k.csv",
+      "sha256": "9ff96c262f964398cc88364973a748d0787b4b007df5422bc5509253e3ce404b",
+      "rows": 1,
+      "note": "Research batch Q070: Zimbabwe parties (1), drafted 20 Oct 2026, pending check"
     }
   ]
 }
