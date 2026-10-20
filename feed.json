@@ -632,6 +632,12 @@
       "sha256": "334aedb6f6b4e5f1e9bad9fb6ce48f658dc116d49614dd3452a3cf8e8b18689e",
       "rows": 21,
       "note": "Research batch Q076: regulators in Tanzania, Uganda, the US, Uruguay, South Africa, Zimbabwe (21), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20z.csv",
+      "sha256": "cab24818ba60043e9327242ee5d5a3dfe7551c53d6e106bd6c74fa27570efa36",
+      "rows": 35,
+      "note": "Research batch Q082: platforms in the UAE, Angola, Argentina, Australia and others (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
