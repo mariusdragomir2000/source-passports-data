@@ -1166,6 +1166,12 @@
       "sha256": "9003ca759a0162e9f65e1191cd95bc3c5827513cdfc3ae3538ba8f695b11daca",
       "rows": 2,
       "note": "Ownership pass O006: media in Chile, Cameroon, Colombia and Costa Rica (2), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzk.csv",
+      "sha256": "6d778c558ee8d2ca4d0213837ee09846c209e9217b28008da982be71b323365d",
+      "rows": 2,
+      "note": "Ownership pass O011: media in Indonesia, Israel, India, Iceland and others (2), drafted 20 Oct 2026, pending check"
     }
   ]
 }
