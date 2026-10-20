@@ -920,6 +920,12 @@
       "sha256": "4b93529bb36bfde746a7ed52b640134998349c8c9424825d43fcadb0659018bb",
       "rows": 15,
       "note": "Second pass G016: parties in Angola, Argentina, Azerbaijan, Bosnia and Herzegovina and others (15) (1 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzv.csv",
+      "sha256": "384f410ab2766778048506117783501c5860942047716378a9b35922aaeb82fc",
+      "rows": 15,
+      "note": "Second pass G014: media in Turkey, Tanzania, Uganda and the US (15), drafted 20 Oct 2026, pending check"
     }
   ]
 }
