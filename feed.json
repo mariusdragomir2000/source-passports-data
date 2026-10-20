@@ -800,6 +800,12 @@
       "sha256": "030d7df6f8fe2c01e465f7bdfd721e5f5eedfb66e708c6ca100d687e790f33d6",
       "rows": 35,
       "note": "Research batch Q107: civil society in Nigeria, Nicaragua, Nepal, Oman, Rwanda, Saudi Arabia, Singapore and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzb.csv",
+      "sha256": "de6e0b3e263a208c10fe1b11a1a190f40662ffc49e41637cb73a2783afc8f5ea",
+      "rows": 35,
+      "note": "Research batch Q100: agencies in the UAE, Argentina, Australia, Bangladesh, Brazil, Canada, Colombia, Egypt and others (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
