@@ -494,6 +494,12 @@
       "sha256": "a44c3b66bd965d1689422a9713ea43bfaf5655f353801361492c0bdef0a247b7",
       "rows": 35,
       "note": "Research batch Q043: media in Mexico, Malaysia and Nigeria (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20c.csv",
+      "sha256": "6d77f430e2c044109578b0b72605bcef30b8cdfdfa188215b8714cc09e44708b",
+      "rows": 25,
+      "note": "Research batch Q058: parties in Indonesia, Israel, India and Iraq (35 checked) (6 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
