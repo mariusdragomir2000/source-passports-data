@@ -1118,6 +1118,12 @@
       "sha256": "cecf2c2bcbea4fe4da581a6e89e7e08ef82dc096278fb4b6ad6034ac9afd5301",
       "rows": 11,
       "note": "Second pass G044: regulators in Qatar, Rwanda, Saudi Arabia, Senegal, Thailand and others (11), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzc.csv",
+      "sha256": "aca790e4398d4f1074f9eabc6d742889f9a3be9a80426ec42ff8d52c9010681b",
+      "rows": 18,
+      "note": "Ownership pass O005 and retry R02: media in Belarus, Canada and Chile; party candidates in Costa Rica, Cyprus, Czechia, Germany, Spain, Finland, France, Greece, Croatia and others (15 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
