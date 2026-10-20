@@ -626,6 +626,12 @@
       "sha256": "ce257d8ee16d7f859144d48bf8270db4ece15b2c9d8e176237b13e2c49e12791",
       "rows": 35,
       "note": "Research batch Q073: regulators in Jordan, Japan, Kenya, Kyrgyzstan and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20y.csv",
+      "sha256": "334aedb6f6b4e5f1e9bad9fb6ce48f658dc116d49614dd3452a3cf8e8b18689e",
+      "rows": 21,
+      "note": "Research batch Q076: regulators in Tanzania, Uganda, the US, Uruguay, South Africa, Zimbabwe (21), drafted 20 Oct 2026, pending check"
     }
   ]
 }
