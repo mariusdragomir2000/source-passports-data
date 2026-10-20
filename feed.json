@@ -986,6 +986,12 @@
       "sha256": "c4c52d89dfa441e384deb410bc6fbc209b5ebcc958d0e396b3b7c6612a73fe0e",
       "rows": 7,
       "note": "Second pass G032: platforms in Turkey, Taiwan and Ukraine (7), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzg.csv",
+      "sha256": "4e40fb629d30f76c57a6308e433d6242940be0524fd2da930988219370b781ea",
+      "rows": 15,
+      "note": "Second pass G029: platforms in Finland, Georgia, Indonesia, Israel, Kenya, Kyrgyzstan and others (15), drafted 20 Oct 2026, pending check"
     }
   ]
 }
