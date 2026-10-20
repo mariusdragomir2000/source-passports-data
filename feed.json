@@ -1148,6 +1148,12 @@
       "sha256": "9ccf4d66fc4e292f1777069fcbb08e78ce7c6c94476f0f01f099dd12b98ec742",
       "rows": 2,
       "note": "Ownership pass O004: media in Bolivia, Brazil and Belarus (1), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzh.csv",
+      "sha256": "8c4d7c5c95dd0cf7ccf689d804d36a8072e983cb017c1dad14208f5219a648d6",
+      "rows": 2,
+      "note": "Ownership pass O002: media in Argentina, Austria, Australia, Azerbaijan, Bosnia and Herzegovina and others (2), drafted 20 Oct 2026, pending check"
     }
   ]
 }
