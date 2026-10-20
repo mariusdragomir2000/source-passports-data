@@ -554,6 +554,12 @@
       "sha256": "0b24962a889ea29adf8eb1f4feab4c7d4e5f4dd3199b78fdae95118a305d29dd",
       "rows": 26,
       "note": "Research batch Q064: parties in Niger, Nigeria, Nicaragua, Nepal, New Zealand, Panama, Peru and others (35 checked) (7 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20m.csv",
+      "sha256": "1d12b7dda695da3e7ece84b7e0304691a158f1a39b01659ebce7330676b1714b",
+      "rows": 17,
+      "note": "Research batch Q067: parties in Suriname, Sao Tome, El Salvador, Syria, Thailand, Togo and others (35 checked) (7 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
