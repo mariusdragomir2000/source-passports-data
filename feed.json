@@ -974,6 +974,12 @@
       "sha256": "eb541b656b05ff4f1fae5fb04aabb56dc0216649a11417e916cafa38db789181",
       "rows": 15,
       "note": "Second pass G026: parties in Trinidad and Tobago, Taiwan, Tanzania, Uganda and South Africa (15) (4 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzze.csv",
+      "sha256": "0eb1a18963ec533f1834360cbbcdae36f602870e98e3eb6dfe048c2f8b0e6cbb",
+      "rows": 15,
+      "note": "Second pass G024: parties in Nepal, Panama, Paraguay, Serbia and others (15) (4 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
