@@ -938,6 +938,12 @@
       "sha256": "3d5261086a0ce5a6bde8092af0813a72e4da4d116098815e4b362a7ce627dac4",
       "rows": 15,
       "note": "Second pass G013: media in Thailand, Tunisia and Turkey (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzy.csv",
+      "sha256": "d04e1fb80c3398596a4ddc80e9925e170bbd009eee8c0f36ff5d98dbcf578fd7",
+      "rows": 15,
+      "note": "Second pass G019: parties in Cape Verde, Algeria, Ecuador, Egypt, Fiji, Georgia and others (15) (5 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
