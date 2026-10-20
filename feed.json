@@ -1,7 +1,7 @@
 {
   "program": "Source Passports",
   "keeper": "MPMONITOR / Media and Journalism Research Center (MJRC)",
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "files": [
     {
       "file": "batches/source-passports-research-2026-10-13.csv",
@@ -482,6 +482,12 @@
       "sha256": "aed62ed830bdaf900730c4e1d143d22694261fe79861b3d3a76a2b5b7eaeb6f1",
       "rows": 32,
       "note": "Research batch Q051: media in South Africa and Zimbabwe (32), drafted 19 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20a.csv",
+      "sha256": "05b0f89e4d4100783ab1896677ddadf81b3cec5d36a7e97912dbb8d04446f250",
+      "rows": 29,
+      "note": "Research batch Q056: parties in Algeria, Ecuador, Egypt, Eritrea, Fiji, Gambia, Guatemala and others (35 checked) (18 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
