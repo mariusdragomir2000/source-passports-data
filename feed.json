@@ -812,6 +812,12 @@
       "sha256": "48520b3e90dd4e7447e1d3ae496414f861b62b036d3c1dc339f6388d5b5a2ea2",
       "rows": 35,
       "note": "Research batch Q098: businesses in Tunisia, Taiwan, Tanzania, Uganda, the US and South Africa (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzd.csv",
+      "sha256": "603b4fb7b47c96aadb19065aa744cde96ce89b3339f68c0bdf0d469b617e477b",
+      "rows": 35,
+      "note": "Research batch Q104: civil society in the UAE, Angola, Argentina, Australia, Bangladesh, Bolivia, Brazil and others (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
