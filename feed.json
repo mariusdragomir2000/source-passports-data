@@ -764,6 +764,12 @@
       "sha256": "fc6a7ab074d16adc303c899f0a9e2938e5948b3b48e194809a55d7ebaf181f9e",
       "rows": 35,
       "note": "Research batch Q105: civil society in Egypt, Gabon, Ghana, Guatemala, Indonesia, Israel, Jordan, Kenya and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zv.csv",
+      "sha256": "531e8b34fa066542a9d5d9a92e5e712bbd39d5710ed78739695255d7fc41e342",
+      "rows": 18,
+      "note": "Research batch Q103: agencies in Singapore, El Salvador, Thailand, Tunisia, Taiwan, the US and Uruguay (18), drafted 20 Oct 2026, pending check"
     }
   ]
 }
