@@ -1202,6 +1202,12 @@
       "sha256": "a4f11a3a81ea3b4aca8f989baba10a20cc8b03632b0e31acd123c3d12e6636b3",
       "rows": 3,
       "note": "Ownership pass O013: media in South Korea, Kazakhstan and Lebanon (1), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzzzq.csv",
+      "sha256": "ba66d65d127368d82750ba425e2fedf8b6b938ed90ff4de23bf0a70842710765",
+      "rows": 5,
+      "note": "Ownership pass O009: media in France, Gabon, the UK, Georgia and others (5), drafted 20 Oct 2026, pending check"
     }
   ]
 }
