@@ -506,6 +506,12 @@
       "sha256": "2b3d24cf95e08cb9544e21de42d5a81a7eb53d99f9a282d8639b2f99ca7c4761",
       "rows": 27,
       "note": "Research batch Q052: parties in Angola, Argentina, Australia, Barbados, Bangladesh and others (35 checked) (8 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20e.csv",
+      "sha256": "29c66f1306b015fb5805b4819f980b2f9059a7b822050f553558277aeb0ab6fc",
+      "rows": 6,
+      "note": "Research batch Q059: parties in Iraq, Iran, Jamaica and Jordan (35 checked) (3 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
