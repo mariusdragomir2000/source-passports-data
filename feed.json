@@ -752,6 +752,12 @@
       "sha256": "727c60f2a9a813dcf18af2e0d713d6593270fbdc8c7ac1edaae7f3c3dbf164f6",
       "rows": 35,
       "note": "Research batch Q096: businesses in Panama, Peru, the Philippines, Pakistan, Qatar, Saudi Arabia and others (35), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zt.csv",
+      "sha256": "71ee1c45862597b85084928a2e72d1cfba83fb6454ae95b3ed402a879a795bcc",
+      "rows": 35,
+      "note": "Research batch Q091: businesses in Cape Verde, Egypt, Gabon and Ghana (35), drafted 20 Oct 2026, pending check"
     }
   ]
 }
