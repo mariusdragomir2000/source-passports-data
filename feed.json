@@ -512,6 +512,12 @@
       "sha256": "29c66f1306b015fb5805b4819f980b2f9059a7b822050f553558277aeb0ab6fc",
       "rows": 6,
       "note": "Research batch Q059: parties in Iraq, Iran, Jamaica and Jordan (35 checked) (3 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20f.csv",
+      "sha256": "0a7e8da6622a6c1e468a1e096760d3d6d0d0179e45db69f750511130caaf1a2a",
+      "rows": 28,
+      "note": "Research batch Q054: parties in Brazil, Botswana, Canada, Central African Republic, Chile and others (35 checked) (14 new records), drafted 20 Oct 2026, pending check"
     }
   ]
 }
