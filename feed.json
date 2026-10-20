@@ -854,6 +854,12 @@
       "sha256": "35e7fe8479775ec760415f9034721a5f8c273e08729a8883eca66be9046f0f93",
       "rows": 15,
       "note": "Second pass G007: media in Jordan, Kenya, Kyrgyzstan, Cambodia, South Korea and others (15), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-research-2026-10-20zzk.csv",
+      "sha256": "49a0abf05511115638f32b379b3cc21927f0ba72dc348c60d497a326a386c2c6",
+      "rows": 25,
+      "note": "Research batch Q108: civil society in Tunisia, Taiwan, Tanzania, Uganda, the US, South Africa and others (25), drafted 20 Oct 2026, pending check"
     }
   ]
 }
