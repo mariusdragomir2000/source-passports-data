@@ -1,0 +1,25 @@
+mpm_id,organisation,name,country,legal_name__status,registration_number__status,registered_address__status,year_founded__status,editor_in_chief__status,owners__status,beneficial_owners__status,state_ownership__status,parent_group__status,public_funding__status,major_funders__status,revenue_mix__status,last_verified
+FI-M-00001-5,A-lehdet,,FI,verified,verified,verified,verified,verified,verified,verified,verified,,,,,2026-10-23
+ES-M-00001-4,Agencia EFE,,ES,verified,verified,verified,,,verified,,verified,verified,,,,2026-10-23
+FI-M-00002-3,Aller Media Finland,,FI,verified,,verified,,verified,,,verified,,,,,2026-10-23
+FI-M-00003-1,Alma Media Corporation,,FI,verified,,,,verified,,,,,,,verified,2026-10-23
+ES-M-00003-0,El Confidencial,,ES,verified,verified,verified,verified,,,,,,,,,2026-10-23
+EG-M-00009-1,Enterprise,,EG,verified,,verified,,,,,,verified,,,,2026-10-23
+FI-M-00004-9,Faktabaari,,FI,verified,,,verified,verified,,,verified,verified,,verified,,2026-10-23
+FI-M-00007-2,HSS Media,,FI,,,,,,,,verified,verified,,,,2026-10-23
+FI-M-00006-4,Helsinki Times,,FI,,,,verified,,,,,,,,,2026-10-23
+FI-M-00008-0,Hufvudstadsbladet,,FI,verified,,,,verified,verified,,verified,verified,,,,2026-10-23
+FI-M-00009-8,Ilkka Group,,FI,verified,verified,verified,verified,verified,,,,,,,verified,2026-10-23
+FI-M-00010-6,Ilta-Sanomat,,FI,,,,,verified,,,,,,,,2026-10-23
+FI-M-00011-4,Iltalehti,,FI,,,,,,,,,verified,,,,2026-10-23
+FI-M-00012-2,Kaleva,,FI,verified,verified,verified,verified,verified,,,verified,,,,,2026-10-23
+EG-M-00011-7,Mada Masr,,EG,,,,verified,,,,,,,,,2026-10-23
+EG-M-00012-5,Masrawy,,EG,,,verified,verified,verified,verified,,,verified,,,,2026-10-23
+ES-M-00008-9,Mediaset España,,ES,verified,verified,verified,,verified,verified,,verified,verified,,,,2026-10-23
+EG-M-00013-3,Middle East News Agency,,EG,,,,verified,verified,verified,,verified,verified,,,,2026-10-23
+EG-M-00014-1,National Media Authority / Maspero,,EG,verified,,,verified,,,,verified,,,,,2026-10-23
+ES-M-00010-5,Público,,ES,verified,verified,verified,,,,,,,,,,2026-10-23
+ES-M-00012-1,RTVE,,ES,verified,verified,verified,,,verified,,verified,verified,,,,2026-10-23
+ES-M-00013-9,Unidad Editorial,,ES,verified,verified,verified,verified,verified,,,,,,,,2026-10-23
+FI-M-00023-9,Yleisradio,,FI,verified,verified,,verified,verified,verified,,,verified,,,,2026-10-23
+ES-M-00004-8,elDiario.es,,ES,verified,,,verified,verified,,,verified,,,,verified,2026-10-23
