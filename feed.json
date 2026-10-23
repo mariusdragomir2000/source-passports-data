@@ -1,7 +1,7 @@
 {
   "program": "Source Passports",
   "keeper": "MPMONITOR / Media and Journalism Research Center (MJRC)",
-  "updated": "2026-10-20",
+  "updated": "2026-10-23",
   "files": [
     {
       "file": "batches/source-passports-research-2026-10-13.csv",
@@ -1334,6 +1334,12 @@
       "sha256": "650a8d218445cd5be6fe2be4bdf9c378c10b9cac05ed1d512ea9a779a4c9e4c4",
       "rows": 11,
       "note": "New records X021: Indian media (11 confirmed) (11 new records), drafted 20 Oct 2026, pending check"
+    },
+    {
+      "file": "batches/source-passports-verify-2026-10-23-001.csv",
+      "sha256": "4f9d441409e4497a7bd0fd931c70912bf05e3e1d3b875c9d784c1c4c0706fa7b",
+      "rows": 31,
+      "note": "Verification (V001, V003, V004): 97 facts on 31 passports re-checked against their cited sources, checked 2026-10-23"
     }
   ]
 }
