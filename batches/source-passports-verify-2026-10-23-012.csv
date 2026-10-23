@@ -1,0 +1,44 @@
+mpm_id,organisation,name,country,legal_name__status,registration_number__status,registered_address__status,year_founded__status,editor_in_chief__status,owners__status,beneficial_owners__status,state_ownership__status,parent_group__status,public_funding__status,major_funders__status,revenue_mix__status,last_verified
+HR-M-00001-2,24sata,,HR,verified,verified,verified,,,verified,,verified,verified,,,,2026-10-23
+GR-M-00002-1,AMNA,,GR,verified,,,,,,,,,,,,2026-10-23
+GR-M-00003-9,ANT1 Greece,,GR,verified,,,,,,,,,,,,2026-10-23
+GH-M-00001-5,Adom FM,,GH,verified,,,,,,,,verified,,,,2026-10-23
+GR-M-00001-3,Alpha TV Greece,,GR,verified,,,,,verified,,,verified,,,,2026-10-23
+HN-M-00001-6,Canal 8 / Televisión Nacional de Honduras,,HN,,,,verified,,verified,,verified,verified,,verified,,2026-10-23
+GH-M-00002-3,Channel One TV (formerly Citi TV) / Citi FM,,GH,verified,,,,verified,,,,verified,,,,2026-10-23
+GH-M-00003-1,Citi Newsroom,,GH,verified,,,,verified,,,,verified,,,,2026-10-23
+HN-M-00002-4,Contracorriente,,HN,verified,,,verified,verified,verified,verified,verified,,,verified,,2026-10-23
+GH-M-00004-9,Daily Graphic,,GH,verified,,verified,verified,,verified,,verified,verified,,,,2026-10-23
+HR-M-00002-0,Dnevnik.hr,,HR,verified,,,,,,,,verified,,,,2026-10-23
+GH-M-00006-4,Dubawa Ghana,,GH,verified,verified,,verified,,,,verified,verified,,verified,,2026-10-23
+GR-M-00006-2,ERT,,GR,verified,verified,verified,,verified,,,verified,,,,,2026-10-23
+GR-M-00005-4,Efimerida ton Syntakton,,GR,verified,verified,verified,,,verified,,,,,,,2026-10-23
+HN-M-00004-0,El Heraldo,,HN,verified,,,verified,,,,,verified,,,,2026-10-23
+GH-M-00011-4,GTV,,GH,verified,,,,,verified,,verified,verified,,,,2026-10-23
+GH-M-00007-2,Ghana Broadcasting Corporation,,GH,verified,,,verified,verified,verified,,verified,verified,,,,2026-10-23
+GH-M-00008-0,Ghana News Agency,,GH,verified,,verified,verified,verified,verified,,verified,verified,,verified,,2026-10-23
+GH-M-00010-6,GhanaWeb,,GH,verified,,,verified,,verified,,verified,verified,,,,2026-10-23
+GH-M-00009-8,Ghanaian Times,,GH,verified,,,verified,,verified,,verified,verified,,,,2026-10-23
+HR-M-00003-8,Globus,,HR,verified,verified,verified,,,verified,,,verified,,,,2026-10-23
+HN-M-00005-7,HCH,,HN,verified,,,,,,,,,,,,2026-10-23
+HR-M-00005-3,HINA,,HR,verified,,,,,,,verified,verified,,verified,,2026-10-23
+GR-M-00007-0,In.gr,,GR,,,,,,verified,verified,verified,verified,,,,2026-10-23
+GH-M-00012-2,Joy FM,,GH,verified,,,verified,,,,,verified,,,,2026-10-23
+GH-M-00013-0,JoyNews,,GH,,,,,,,,,verified,,,,2026-10-23
+HN-M-00006-5,La Prensa,,HN,verified,,,verified,verified,,,,verified,,,,2026-10-23
+GH-M-00014-8,Modern Ghana,,GH,verified,,,verified,,,,verified,,,,,2026-10-23
+GH-M-00015-5,Multimedia Group Limited,,GH,verified,,,verified,,,,,,,,,2026-10-23
+GH-M-00016-3,MyJoyOnline,,GH,,,,,,,,,verified,,,,2026-10-23
+GR-M-00009-6,Naftemporiki,,GR,verified,verified,,,verified,,,verified,,,,,2026-10-23
+GE-M-00009-1,OC Media,,GE,,,,verified,verified,,,,,,,,2026-10-23
+GR-M-00011-2,Open TV,,GR,verified,,,,,,,,,,,,2026-10-23
+GH-M-00017-1,Peace FM,,GH,,,,,,,,,verified,,,,2026-10-23
+GR-M-00012-0,Proto Thema,,GR,verified,,verified,,,,,,,,,,2026-10-23
+GE-M-00012-5,Publika,,GE,verified,verified,verified,verified,verified,verified,,verified,,,,,2026-10-23
+HN-M-00009-9,Radio Nacional de Honduras,,HN,,,,verified,verified,,,verified,,,verified,,2026-10-23
+GE-M-00014-1,Rustavi 2,,GE,verified,,,,,,,,,,,,2026-10-23
+GR-M-00013-8,Skai TV,,GR,,,,,,,verified,verified,,,,,2026-10-23
+GR-M-00014-6,Star Channel,,GR,verified,,,,,verified,,,,,,,2026-10-23
+GH-M-00019-7,TV3 Ghana,,GH,verified,,,,,,,,verified,,,,2026-10-23
+GH-M-00018-9,The Business & Financial Times,,GH,,,,verified,,,,,,,,,2026-10-23
+GH-M-00020-5,UTV Ghana,,GH,,,,verified,,,,,verified,,,,2026-10-23
