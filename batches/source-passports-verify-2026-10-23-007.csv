@@ -1,0 +1,5 @@
+mpm_id,organisation,name,country,legal_name__status,registration_number__status,registered_address__status,year_founded__status,editor_in_chief__status,owners__status,beneficial_owners__status,state_ownership__status,parent_group__status,public_funding__status,major_funders__status,revenue_mix__status,last_verified
+CZ-M-00016-5,Romea.cz,,CZ,verified,,,,,,,,,,,,2026-10-23
+CZ-M-00019-9,TV Barrandov,,CZ,verified,verified,,,,,,,,,,,2026-10-23
+CZ-M-00020-7,TV Nova / Nova Group,,CZ,verified,verified,verified,,verified,,,verified,,,,,2026-10-23
+CH-M-00017-5,TX Group,,CH,,verified,,,,,,,,,,,2026-10-23
