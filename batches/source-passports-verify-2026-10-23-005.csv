@@ -1,0 +1,36 @@
+mpm_id,organisation,name,country,legal_name__status,registration_number__status,registered_address__status,year_founded__status,editor_in_chief__status,owners__status,beneficial_owners__status,state_ownership__status,parent_group__status,public_funding__status,major_funders__status,revenue_mix__status,last_verified
+CH-M-00001-9,20 Minuten,,CH,,,,verified,verified,,,verified,verified,,,verified,2026-10-23
+CY-M-00002-6,Alithia,,CY,verified,,,,,,,,,,,,2026-10-23
+CY-M-00003-4,Alpha Cyprus,,CY,verified,,,,,,,,,,,,2026-10-23
+CH-M-00002-7,Basler Zeitung,,CH,,,,,,,,verified,verified,,,,2026-10-23
+CH-M-00003-5,Blick,,CH,verified,,verified,,verified,verified,,verified,verified,,,,2026-10-23
+CL-M-00004-7,CIPER Chile,,CL,verified,verified,verified,verified,verified,,,,,,verified,,2026-10-23
+CY-M-00005-9,CNA,,CY,verified,,,,,,,,,,,,2026-10-23
+CL-M-00005-4,CNN Chile,,CL,verified,,,,verified,,,,,,,,2026-10-23
+CM-M-00001-2,Cameroon Radio Television (CRTV) – National TV / CRTV News / CRTV Sports / National Radio / 10 Regional Stations,,CM,verified,,,verified,,,,verified,,,,,2026-10-23
+CM-M-00002-0,Cameroon Tribune,,CM,verified,,verified,,verified,,,verified,,,,,2026-10-23
+CL-M-00002-1,Canal 13,,CL,verified,verified,verified,verified,,,,,,,,,2026-10-23
+CL-M-00003-9,Chilevisión,,CL,verified,,,,,,,,,,,,2026-10-23
+CY-M-00006-7,CyBC,,CY,verified,,,,,,,,,,,,2026-10-23
+CY-M-00007-5,Cyprus Mail,,CY,verified,,,,,,,,,,,,2026-10-23
+CL-M-00006-2,Diario Financiero,,CL,verified,,verified,,,,,,,,,,2026-10-23
+CL-M-00007-0,El Mercurio,,CL,verified,verified,verified,,,,,,,,,,2026-10-23
+CY-M-00008-3,Haravgi,,CY,verified,,,,,,,,,,,,2026-10-23
+CM-M-00004-6,Journal du Cameroun / Cameroon Info.Net / Camer.be,,CM,verified,,verified,,verified,,,,,,,,2026-10-23
+CL-M-00008-8,La Tercera,,CL,verified,verified,,,,,,,,,,,2026-10-23
+CA-M-00007-3,Le Devoir,,CA,,,,verified,verified,,,,,,,verified,2026-10-23
+CL-M-00009-6,Mega,,CL,verified,,,,,verified,,verified,verified,,,,2026-10-23
+CV-M-00006-0,Notícias do Norte,,CV,,,,,,,,,,,verified,,2026-10-23
+CA-M-00009-9,Postmedia Network,,CA,verified,,,,,verified,,,,,,,2026-10-23
+CV-M-00009-4,RTI Cabo Verde,,CV,verified,,,,,,,,,,,,2026-10-23
+CL-M-00010-4,Radio Cooperativa,,CL,verified,verified,verified,verified,,,,,,,,,2026-10-23
+CV-M-00007-8,Radiotelevisão Caboverdiana,,CV,verified,verified,verified,verified,verified,verified,,verified,verified,,verified,,2026-10-23
+CV-M-00008-6,Record Cabo Verde,,CV,verified,,verified,verified,,,,,,,,,2026-10-23
+CV-M-00014-4,TIVER,,CV,verified,,,,,,,,,,,,2026-10-23
+CA-M-00014-9,TVO Today,,CA,verified,,,,,,,verified,,,verified,verified,2026-10-23
+CH-M-00015-9,Tages-Anzeiger,,CH,,,,verified,,verified,,verified,verified,,,,2026-10-23
+CL-M-00011-2,Televisión Nacional de Chile,,CL,verified,verified,verified,verified,verified,verified,,verified,verified,,,,2026-10-23
+CA-M-00011-5,The Canadian Press,,CA,verified,,,,,,,verified,,,,,2026-10-23
+CA-M-00012-3,The Globe and Mail,,CA,,,,verified,verified,verified,,,verified,,,,2026-10-23
+CA-M-00013-1,Toronto Star,,CA,,,,,,,verified,,,,,,2026-10-23
+CH-M-00016-7,Tribune de Genève,,CH,,,,,,verified,,verified,verified,,,,2026-10-23
