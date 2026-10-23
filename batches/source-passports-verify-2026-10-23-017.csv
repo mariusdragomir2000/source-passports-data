@@ -1,0 +1,19 @@
+mpm_id,organisation,name,country,legal_name__status,registration_number__status,registered_address__status,year_founded__status,editor_in_chief__status,owners__status,beneficial_owners__status,state_ownership__status,parent_group__status,public_funding__status,major_funders__status,revenue_mix__status,last_verified
+IT-M-00003-5,Corriere della Sera,,IT,verified,,,,verified,,,,,,,verified,2026-10-23
+IT-M-00004-3,Fanpage,,IT,verified,verified,verified,,verified,,,,,,,,2026-10-23
+JP-M-00003-8,Fuji Television,,JP,verified,,,,,verified,,,verified,,,,2026-10-23
+IT-M-00005-0,GEDI Gruppo Editoriale,,IT,verified,,,,verified,verified,,verified,verified,,,,2026-10-23
+IT-M-00006-8,HuffPost Italia,,IT,,,,verified,,verified,,verified,verified,,,,2026-10-23
+IT-M-00007-6,Il Fatto Quotidiano,,IT,verified,verified,,verified,,,,,,,,,2026-10-23
+IT-M-00008-4,Il Giornale,,IT,,,,,,verified,,verified,verified,,,,2026-10-23
+IT-M-00009-2,Il Messaggero,,IT,verified,verified,verified,,,,,verified,verified,,,,2026-10-23
+IT-M-00010-0,Il Sole 24 Ore,,IT,verified,,,,,verified,,verified,verified,,,,2026-10-23
+JP-M-00004-6,Jiji Press,,JP,verified,,,verified,,,,,,,,,2026-10-23
+JP-M-00005-3,Kyodo News,,JP,verified,,verified,verified,verified,verified,,,,,,,2026-10-23
+IT-M-00011-8,La Repubblica,,IT,,,,,,verified,,verified,verified,,,,2026-10-23
+IT-M-00012-6,La Stampa,,IT,verified,,,,,,,verified,verified,,,,2026-10-23
+JP-M-00006-1,Mainichi Shimbun,,JP,verified,,,,,,,,verified,,,,2026-10-23
+IT-M-00014-2,Mediaset,,IT,verified,,,,,,verified,verified,verified,,,,2026-10-23
+JP-M-00007-9,NHK,,JP,verified,,,,,,,,,,,,2026-10-23
+JP-M-00008-7,Nikkei,,JP,verified,,verified,verified,,,,,,,,,2026-10-23
+JP-M-00009-5,Nippon Television Network,,JP,verified,,,,,verified,,,verified,,,,2026-10-23
