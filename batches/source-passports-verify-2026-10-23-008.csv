@@ -1,0 +1,31 @@
+mpm_id,organisation,name,country,legal_name__status,registration_number__status,registered_address__status,year_founded__status,editor_in_chief__status,owners__status,beneficial_owners__status,state_ownership__status,parent_group__status,public_funding__status,major_funders__status,revenue_mix__status,last_verified
+EG-M-00001-8,Akhbar Al Youm,,EG,verified,,,,verified,verified,,verified,verified,,,,2026-10-23
+EG-M-00004-2,Al Qahera News,,EG,,,,verified,,verified,,,verified,,,,2026-10-23
+EG-M-00006-7,Al-Ahram,,EG,,,,verified,,,,,,,,,2026-10-23
+DK-M-00001-3,Altinget,,DK,verified,verified,verified,verified,verified,,,verified,verified,,verified,,2026-10-23
+EE-M-00001-0,BNS,,EE,,,,verified,,,,,,,,,2026-10-23
+DK-M-00002-1,Berlingske,,DK,verified,verified,verified,verified,,verified,,verified,verified,,verified,,2026-10-23
+DK-M-00003-9,Berlingske Media A/S,,DK,verified,verified,verified,verified,verified,verified,,verified,verified,,verified,,2026-10-23
+EG-M-00007-5,CBC Egypt,,EG,,,,,,verified,,,verified,,,,2026-10-23
+EG-M-00008-3,DMC,,EG,,,,verified,,verified,,,verified,,,,2026-10-23
+DK-M-00004-7,Danmarks Radio,,DK,verified,verified,verified,verified,verified,,,verified,verified,,,,2026-10-23
+EE-M-00002-8,Delfi Meedia,,EE,verified,verified,verified,verified,verified,,verified,verified,verified,,,,2026-10-23
+EE-M-00003-6,Duo Media Networks,,EE,verified,verified,verified,verified,,verified,verified,verified,verified,,,,2026-10-23
+EE-M-00006-9,ERR,,EE,verified,verified,verified,,verified,,,verified,,,verified,,2026-10-23
+EE-M-00007-7,ERR News,,EE,verified,,,,verified,,,verified,verified,,verified,,2026-10-23
+EE-M-00008-5,ERR Uudised,,EE,verified,,,,verified,,,verified,verified,,verified,,2026-10-23
+EE-M-00004-4,Eesti Ekspress,,EE,verified,verified,verified,,,,verified,verified,verified,,,,2026-10-23
+EE-M-00005-1,Ekspress Grupp,,EE,verified,verified,verified,verified,,,verified,verified,verified,,,,2026-10-23
+DK-M-00006-2,Ekstra Bladet,,DK,verified,verified,verified,verified,verified,,,verified,verified,,verified,,2026-10-23
+DK-M-00007-0,Information,,DK,verified,verified,,verified,verified,verified,,verified,,,verified,,2026-10-23
+DK-M-00008-8,JP/Politikens Hus A/S,,DK,verified,verified,verified,verified,verified,,,verified,verified,,verified,,2026-10-23
+DK-M-00009-6,Jyllands-Posten,,DK,verified,verified,verified,verified,,,,verified,verified,,verified,,2026-10-23
+EE-M-00009-3,Maaleht,,EE,verified,verified,verified,,,,verified,verified,verified,,,,2026-10-23
+DK-M-00010-4,Politiken,,DK,verified,,,verified,verified,,,verified,verified,,verified,,2026-10-23
+EE-M-00010-1,Postimees,,EE,verified,verified,verified,,,verified,verified,verified,verified,,,,2026-10-23
+EE-M-00011-9,Postimees Grupp,,EE,verified,verified,verified,verified,verified,verified,verified,verified,verified,,,,2026-10-23
+DK-M-00011-2,Ritzaus Bureau,,DK,verified,verified,verified,,verified,verified,,verified,verified,,,,2026-10-23
+DK-M-00012-0,TV 2 Danmark A/S,,DK,verified,verified,verified,verified,verified,verified,,verified,verified,,,,2026-10-23
+DK-M-00013-8,Zetland,,DK,verified,verified,,verified,verified,verified,,verified,verified,,verified,,2026-10-23
+EE-M-00013-5,Äripäev,,EE,verified,verified,verified,verified,,verified,verified,verified,verified,,,,2026-10-23
+EE-M-00014-3,Õhtuleht,,EE,verified,verified,verified,,verified,,verified,verified,verified,,,,2026-10-23
