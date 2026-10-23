@@ -1,0 +1,15 @@
+mpm_id,organisation,name,country,legal_name__status,registration_number__status,registered_address__status,year_founded__status,editor_in_chief__status,owners__status,beneficial_owners__status,state_ownership__status,parent_group__status,public_funding__status,major_funders__status,revenue_mix__status,last_verified
+IN-M-00003-1,Doordarshan / Prasar Bharati,,IN,verified,,,,verified,,,verified,verified,,,,2026-10-23
+IN-M-00004-9,Hindustan Times,,IN,,,,,,,,verified,verified,,,,2026-10-23
+IN-M-00005-6,India Today Group,,IN,,,,,,,,verified,verified,,,,2026-10-23
+IN-M-00006-4,NDTV,,IN,verified,verified,,,,,,verified,verified,,,,2026-10-23
+IN-M-00007-2,Network18 / CNN-News18,,IN,verified,,,,,verified,,verified,verified,,,,2026-10-23
+IN-M-00008-0,NewsLaundry,,IN,verified,,,verified,,,,verified,,,verified,,2026-10-23
+IN-M-00009-8,Press Trust of India,,IN,verified,,,verified,,verified,,verified,,,,,2026-10-23
+IN-M-00010-6,Republic Media Network,,IN,verified,verified,verified,verified,,,,,,,,,2026-10-23
+IN-M-00011-4,Scroll.in,,IN,verified,,,,,,,,,,,,2026-10-23
+IN-M-00012-2,The Hindu,,IN,verified,,,,,verified,,,verified,,,,2026-10-23
+IN-M-00013-0,The Indian Express,,IN,verified,,,,,,,,,,,,2026-10-23
+IN-M-00014-8,The Quint,,IN,verified,verified,verified,verified,,verified,,,,,,,2026-10-23
+IN-M-00016-3,The Wire,,IN,verified,,,,,,,,,,verified,,2026-10-23
+IN-M-00017-1,Zee Media Corporation,,IN,verified,verified,verified,verified,,verified,,,,,,,2026-10-23
