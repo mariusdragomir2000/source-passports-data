@@ -1,0 +1,44 @@
+mpm_id,organisation,name,country,legal_name__status,registration_number__status,registered_address__status,year_founded__status,editor_in_chief__status,owners__status,beneficial_owners__status,state_ownership__status,parent_group__status,public_funding__status,major_funders__status,revenue_mix__status,last_verified
+AU-M-00001-4,ABC,,AU,verified,,,,,,,verified,,,,verified,2026-10-23
+AZ-M-00003-5,APA News Agency,,AZ,verified,,,verified,,,,,verified,,,,2026-10-23
+CA-M-00001-6,APTN,,CA,verified,,,,,,,,,,,,2026-10-23
+BO-M-00001-1,Agencia Boliviana de Información,,BO,verified,,,,,,,verified,verified,,verified,,2026-10-23
+BR-M-00001-8,Agência Brasil,,BR,verified,verified,verified,,verified,verified,,verified,verified,,verified,,2026-10-23
+BO-M-00002-9,Ahora El Pueblo,,BO,,,,,,,,verified,verified,,verified,,2026-10-23
+AU-M-00002-2,Australian Associated Press,,AU,verified,,,,,,,verified,,,verified,,2026-10-23
+AU-M-00003-0,Australian Financial Review,,AU,,,,,,verified,,,verified,,,,2026-10-23
+BR-M-00002-6,Band / Grupo Bandeirantes,,BR,verified,verified,,,,,,,,,,,2026-10-23
+BO-M-00004-5,Bolivia TV,,BO,verified,,,verified,,verified,,verified,verified,,verified,,2026-10-23
+BW-M-00001-1,Botswana Television (BTV) – BTV 1 / BTV 2 / BTV News,,BW,verified,,verified,,,,,verified,,,verified,,2026-10-23
+CA-M-00002-4,CBC/Radio-Canada,,CA,,,,,,,,verified,verified,,verified,verified,2026-10-23
+AU-M-00004-8,Crikey,,AU,,,,,,,verified,verified,verified,,,,2026-10-23
+AT-M-00003-3,Die Presse,,AT,verified,verified,,,,verified,,verified,verified,,,,2026-10-23
+AT-M-00004-1,FALTER,,AT,verified,,verified,,,verified,,,verified,,,,2026-10-23
+AT-M-00008-2,KURIER,,AT,verified,,,,,,,verified,verified,,,,2026-10-23
+AT-M-00006-6,Kleine Zeitung,,AT,verified,verified,,,,verified,,verified,verified,,,,2026-10-23
+AT-M-00009-0,Mediaprint,,AT,verified,,verified,,,,,verified,verified,,,,2026-10-23
+BR-M-00008-3,Metrópoles,,BR,verified,verified,verified,,,,,,,,,,2026-10-23
+BW-M-00002-9,Mmegi / The Voice / Sunday Standard / Botswana Guardian,,BW,verified,,,,,,,,verified,,,,2026-10-23
+AU-M-00006-3,News Corp Australia,,AU,,,,,,verified,verified,,verified,,,,2026-10-23
+BR-M-00009-1,Nexo Jornal,,BR,verified,verified,verified,,,verified,,,,,,,2026-10-23
+AU-M-00007-1,Nine Entertainment,,AU,verified,verified,,,verified,verified,,,,,,,2026-10-23
+AT-M-00012-4,ProSiebenSat.1 PULS 4,,AT,verified,verified,,,,,,verified,verified,,,,2026-10-23
+BW-M-00003-7,Radio Botswana (RB1 / RB2) / Duma FM / Yarona FM / Gabz FM,,BW,verified,,verified,,,,,verified,,,verified,,2026-10-23
+AT-M-00013-2,Red Bull Media House,,AT,verified,verified,verified,verified,,verified,,verified,verified,,,,2026-10-23
+BO-M-00010-2,Red Patria Nueva,,BO,verified,,,,,,,verified,verified,,verified,,2026-10-23
+AT-M-00014-0,RegionalMedien Austria,,AT,verified,verified,,,,,,verified,,,,,2026-10-23
+AU-M-00008-9,SBS,,AU,verified,,,,verified,,,verified,verified,,,,2026-10-23
+AT-M-00015-7,Salzburger Nachrichten,,AT,verified,,verified,verified,,verified,verified,verified,verified,,,,2026-10-23
+AT-M-00016-5,ServusTV,,AT,verified,verified,,,,verified,verified,verified,verified,,,,2026-10-23
+AU-M-00009-7,Seven West Media,,AU,verified,,,,verified,verified,,,verified,,,,2026-10-23
+AU-M-00010-5,Sky News Australia,,AU,verified,verified,,,,verified,verified,,verified,,,,2026-10-23
+AT-M-00017-3,Styria Media Group,,AT,verified,verified,verified,,,verified,,verified,verified,,,,2026-10-23
+AU-M-00011-3,The Age,,AU,verified,verified,,,,verified,,,verified,,,,2026-10-23
+AU-M-00012-1,The Australian,,AU,verified,verified,,,,verified,verified,,verified,,,,2026-10-23
+AU-M-00013-9,The Conversation Australia,,AU,verified,verified,,,verified,,,,,,,,2026-10-23
+AU-M-00014-7,The Guardian Australia,,AU,verified,verified,,,,verified,,verified,verified,,,,2026-10-23
+AU-M-00015-4,The Sydney Morning Herald,,AU,verified,verified,,,,verified,,,verified,,,,2026-10-23
+AT-M-00018-1,Tiroler Tageszeitung,,AT,verified,verified,verified,,,verified,verified,verified,verified,,,,2026-10-23
+AT-M-00019-9,WZ • Wiener Zeitung,,AT,verified,,,,,verified,,verified,verified,,verified,,2026-10-23
+AT-M-00011-6,profil,,AT,verified,verified,verified,,verified,,verified,verified,verified,,,,2026-10-23
+AT-M-00020-7,Österreichischer Rundfunk,,AT,verified,verified,verified,,verified,,,verified,verified,,,,2026-10-23

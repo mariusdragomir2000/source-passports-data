@@ -1352,6 +1352,12 @@
       "sha256": "9d852f0886c8fd116e2aa004fdc885b33037bbf5c60e3b61c97360972f3e2a8e",
       "rows": 15,
       "note": "Record status: 15 organisations confirmed closed or merged (official records or reputable press), checked 2026-10-23"
+    },
+    {
+      "file": "batches/source-passports-verify-2026-10-23-003.csv",
+      "sha256": "742cfff53cdc5e25d5e4043079117aa0c16c741ea251c81dc0e6c35224e97d79",
+      "rows": 43,
+      "note": "Verification (V005, V006, V007, V014, V015, V016, V017, V018): 183 facts on 43 passports re-checked against their cited sources, checked 2026-10-23"
     }
   ]
 }
