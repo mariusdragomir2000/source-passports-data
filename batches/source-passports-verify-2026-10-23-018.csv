@@ -1,0 +1,42 @@
+mpm_id,organisation,name,country,legal_name__status,registration_number__status,registered_address__status,year_founded__status,editor_in_chief__status,owners__status,beneficial_owners__status,state_ownership__status,parent_group__status,public_funding__status,major_funders__status,revenue_mix__status,last_verified
+KG-M-00001-0,24.kg,,KG,,,verified,,,,,,,,,,2026-10-23
+KZ-M-00001-7,31 Channel,,KZ,,,,,verified,,,verified,,,,,2026-10-23
+KG-M-00002-8,AKIpress,,KG,,,verified,,,,,,,,,,2026-10-23
+KE-M-00001-2,Africa Check — Kenya Office,,KE,verified,,verified,,verified,,,,verified,,,,2026-10-23
+KH-M-00001-9,Agence Kampuchea Presse,,KH,verified,,,verified,verified,verified,,verified,verified,,,,2026-10-23
+KH-M-00002-7,Bayon TV,,KH,verified,,,verified,,verified,,verified,,,,,2026-10-23
+KH-M-00003-5,CNC,,KH,,,,verified,,verified,,verified,verified,,,,2026-10-23
+KH-M-00004-3,CTN,,KH,verified,,,verified,,verified,,verified,verified,,,,2026-10-23
+KE-M-00002-0,Capital FM Kenya / Capital Group,,KE,,,,verified,,,,,,,,,2026-10-23
+KR-M-00001-7,Chosun Ilbo,,KR,verified,,,,,,,,,,,,2026-10-23
+KG-M-00003-6,ELTR,,KG,verified,,,,,verified,,verified,verified,,,,2026-10-23
+KZ-M-00003-3,Egemen Qazaqstan,,KZ,verified,,,,,,,,verified,,,,2026-10-23
+KH-M-00006-8,Hang Meas HDTV,,KH,,,,verified,,,,,verified,,,,2026-10-23
+KZ-M-00005-8,Informburo.kz,,KZ,verified,verified,verified,,verified,,,verified,,,,,2026-10-23
+KR-M-00005-8,JTBC,,KR,verified,,,,,,,,,,,,2026-10-23
+KR-M-00004-1,JoongAng Ilbo,,KR,verified,verified,verified,,verified,,,,,,,,2026-10-23
+KR-M-00006-6,KBS,,KR,verified,,,,,,,,,,,,2026-10-23
+KG-M-00005-1,Kabar National News Agency,,KG,verified,,,verified,verified,verified,,verified,verified,,,,2026-10-23
+KH-M-00007-6,Kampuchea Thmey Daily,,KH,verified,,,verified,,,,,,,,,2026-10-23
+KE-M-00003-8,Kenya Broadcasting Corporation,,KE,verified,,verified,verified,,verified,,verified,verified,,verified,,2026-10-23
+KE-M-00004-6,Kenya News Agency,,KE,verified,,verified,verified,,,,verified,verified,,,,2026-10-23
+KG-M-00008-5,Kyrgyz National Television and Radio Corporation,,KG,verified,,,,,,,verified,,,,,2026-10-23
+KR-M-00008-2,MBC,,KR,,,,verified,,verified,,,,,,,2026-10-23
+KE-M-00006-1,Mediamax Network Ltd,,KE,verified,,,,,,,,,,,,2026-10-23
+KE-M-00008-7,Nation Media Group,,KE,verified,,verified,verified,,,,,,,,,2026-10-23
+KH-M-00009-2,National Radio of Cambodia,,KH,verified,,,,verified,verified,,verified,verified,,,,2026-10-23
+KH-M-00010-0,National Television of Cambodia,,KH,verified,,,verified,verified,verified,,verified,verified,,,,2026-10-23
+KE-M-00009-5,PesaCheck / Code for Africa,,KE,,,,,,,,,verified,,verified,,2026-10-23
+KH-M-00011-8,Phnom Penh Post,,KH,verified,,,verified,,,,verified,,,,,2026-10-23
+KG-M-00010-1,Radio Azattyk,,KG,verified,,,,,,,,verified,,,,2026-10-23
+KE-M-00011-1,Royal Media Services,,KE,verified,,,,,,,,,,,,2026-10-23
+KR-M-00009-0,SBS,,KR,,,,,,,,,verified,,,,2026-10-23
+JP-M-00010-3,Sankei Shimbun,,JP,verified,,,,,verified,,,verified,,,,2026-10-23
+KE-M-00012-9,Standard Group PLC,,KE,verified,,,,,,,,,,,,2026-10-23
+JP-M-00011-1,TBS Television,,JP,verified,,verified,verified,verified,verified,,,verified,,,,2026-10-23
+KE-M-00013-7,TUKO Media Ltd,,KE,verified,,,,,,,,,,,,2026-10-23
+JP-M-00012-9,TV Asahi,,JP,verified,,,verified,,verified,,,verified,,,,2026-10-23
+KR-M-00011-6,TV Chosun,,KR,verified,,,,,,,,,,,,2026-10-23
+KR-M-00010-8,The Korea Herald,,KR,verified,,,,,,,,verified,,,,2026-10-23
+KR-M-00013-2,YTN,,KR,verified,,verified,verified,,,,,verified,,,,2026-10-23
+JP-M-00013-7,Yomiuri Shimbun,,JP,verified,,verified,,verified,,,,,,,,2026-10-23

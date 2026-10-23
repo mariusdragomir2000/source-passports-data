@@ -1442,6 +1442,12 @@
       "sha256": "8ff17f9f3ab18af9dc40af23a70326d180d4e7348a93f1f950b6bb827174aea2",
       "rows": 18,
       "note": "Verification (V059, V061): 60 facts on 18 passports re-checked against their cited sources, checked 2026-10-23"
+    },
+    {
+      "file": "batches/source-passports-verify-2026-10-23-018.csv",
+      "sha256": "1cd7c44418cc38f162bcd37489755775d23c92117c68e579400218b5d2a659d3",
+      "rows": 41,
+      "note": "Verification (V062, V063, V064, V065): 121 facts on 41 passports re-checked against their cited sources, checked 2026-10-23"
     }
   ]
 }
