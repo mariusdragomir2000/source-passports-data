@@ -1,0 +1,29 @@
+mpm_id,organisation,name,country,legal_name__status,registration_number__status,registered_address__status,year_founded__status,editor_in_chief__status,owners__status,beneficial_owners__status,state_ownership__status,parent_group__status,public_funding__status,major_funders__status,revenue_mix__status,last_verified
+HU-M-00001-7,444.hu,,HU,verified,verified,verified,,verified,verified,verified,verified,verified,,verified,,2026-10-23
+GT-M-00001-1,Agencia Guatemalteca de Noticias,,GT,verified,,,verified,verified,verified,,verified,verified,,verified,,2026-10-23
+HU-M-00003-3,Blikk,,HU,verified,,,,verified,verified,,verified,verified,,,,2026-10-23
+HU-M-00004-1,Duna Médiaszolgáltató,,HU,verified,,,,verified,,,verified,verified,,,,2026-10-23
+GT-M-00004-5,Emisoras Unidas,,GT,,,,verified,verified,,,,,,,,2026-10-23
+GT-M-00005-2,Guatevisión,,GT,,,,verified,,,,,,,,,2026-10-23
+HR-M-00006-1,HRT,,HR,verified,,,,,,,verified,verified,,,verified,2026-10-23
+HU-M-00005-8,HVG,,HU,verified,verified,verified,,verified,,,,,,,,2026-10-23
+HR-M-00004-6,Hanza Media,,HR,verified,verified,verified,verified,verified,verified,,,,,,,2026-10-23
+HR-M-00007-9,Index.hr,,HR,verified,verified,verified,,verified,,,,,,,,2026-10-23
+HU-M-00006-6,Index.hu,,HU,verified,verified,verified,,verified,verified,,verified,verified,,,,2026-10-23
+HR-M-00008-7,Jutarnji list,,HR,verified,verified,verified,,,verified,,,verified,,,,2026-10-23
+GT-M-00006-0,La Hora,,GT,,,,verified,verified,,,,,,,,2026-10-23
+HU-M-00010-8,MTI,,HU,,,,,,,,verified,verified,,,,2026-10-23
+HU-M-00011-6,MTVA,,HU,verified,,,,,,,,verified,,,,2026-10-23
+HR-M-00009-5,N1 Hrvatska,,HR,,,,,,,,,verified,,,,2026-10-23
+HR-M-00010-3,Nova TV,,HR,verified,,,verified,,,,,verified,,,,2026-10-23
+HR-M-00011-1,Novi list,,HR,verified,verified,verified,,,,,,verified,,,,2026-10-23
+HU-M-00012-4,Népszava,,HU,,,,,,verified,,verified,verified,,,,2026-10-23
+GT-M-00007-8,Plaza Pública,,GT,,,,,,,,,verified,,verified,,2026-10-23
+GT-M-00008-6,Prensa Libre,,GT,,,,verified,,,,,,,,,2026-10-23
+HR-M-00012-9,RTL Hrvatska,,HR,verified,verified,verified,verified,verified,verified,,verified,verified,,,,2026-10-23
+HR-M-00013-7,Slobodna Dalmacija,,HR,verified,verified,verified,,,verified,,,verified,,,,2026-10-23
+HR-M-00014-5,Styria Croatia,,HR,,,,,,verified,,verified,verified,,,,2026-10-23
+GT-M-00010-2,TGW Radio Nacional,,GT,verified,,,verified,verified,verified,,verified,verified,,verified,,2026-10-23
+GR-M-00016-1,To Vima,,GR,,,,,,verified,verified,verified,verified,,,,2026-10-23
+HR-M-00016-0,Tportal,,HR,verified,,,,,,,verified,verified,,,,2026-10-23
+HR-M-00017-8,Večernji list,,HR,verified,,verified,,,verified,,verified,verified,,,,2026-10-23
