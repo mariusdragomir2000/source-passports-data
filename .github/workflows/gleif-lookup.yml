@@ -1,0 +1,29 @@
+name: Look up passports in the GLEIF LEI register
+# Runs only when started by hand. Matches published passports to the open GLEIF
+# register by exact legal name and country and stores the matches for review in
+# enrich/gleif-matches.csv. It does not touch the site or the feed.
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  lookup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v5
+      - name: Look up
+        run: python3 tools/gleif_lookup.py mirror/passports-latest.json.gz enrich/gleif-matches.csv
+      - name: Commit the matches
+        if: always()
+        run: |
+          git config user.name "gleif-lookup"
+          git config user.email "actions@users.noreply.github.com"
+          git add enrich/gleif-matches.csv || true
+          if git diff --cached --quiet; then
+            echo "No change"
+          else
+            git commit -m "GLEIF lookup $(date -u +%F)"
+            git pull --rebase -q
+            git push
+          fi
