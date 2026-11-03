@@ -1454,6 +1454,12 @@
       "sha256": "a5bf96b182fe752022585a63ac1a32eadd6e752640bafb653a5019f1452ed714",
       "rows": 1,
       "note": "Record status: Globus (HR) closed, last issue 24 Dec 2025, deleted from the press register 29 Dec 2025 (AZTN press market study 2026), checked 2026-11-03"
+    },
+    {
+      "file": "batches/source-passports-gleif-2026-11-03-001.csv",
+      "sha256": "771aed453f83249af2230a70e62c4b027c9533d29055e0b23fff5b63dd71c95f",
+      "rows": 261,
+      "note": "GLEIF LEI register: 197 registration numbers, 164 registered addresses and 23 parent groups for 261 passports whose fields were empty; exact legal-name and country matches only, existing sources kept, read 2026-11-03"
     }
   ]
 }
