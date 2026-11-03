@@ -1,7 +1,7 @@
 {
   "program": "Source Passports",
   "keeper": "MPMONITOR / Media and Journalism Research Center (MJRC)",
-  "updated": "2026-10-23",
+  "updated": "2026-11-03",
   "files": [
     {
       "file": "batches/source-passports-research-2026-10-13.csv",
@@ -1448,6 +1448,12 @@
       "sha256": "1cd7c44418cc38f162bcd37489755775d23c92117c68e579400218b5d2a659d3",
       "rows": 41,
       "note": "Verification (V062, V063, V064, V065): 121 facts on 41 passports re-checked against their cited sources, checked 2026-10-23"
+    },
+    {
+      "file": "batches/source-passports-status-2026-11-03-001.csv",
+      "sha256": "a5bf96b182fe752022585a63ac1a32eadd6e752640bafb653a5019f1452ed714",
+      "rows": 1,
+      "note": "Record status: Globus (HR) closed, last issue 24 Dec 2025, deleted from the press register 29 Dec 2025 (AZTN press market study 2026), checked 2026-11-03"
     }
   ]
 }
