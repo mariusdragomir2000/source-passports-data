@@ -1,7 +1,6 @@
 name: Check how the live passports page answers filters
-# Runs only by hand. Prints, for a few filter addresses, the final address after
-# redirects, cache-related response headers and the results heading, so a cache
-# or redirect that drops the filters can be spotted. Changes nothing.
+# Runs only by hand. Follows the "See all passports" link and the search box on the
+# About page, then checks whether the page it reaches filters by country. Changes nothing.
 on:
   workflow_dispatch:
 permissions:
@@ -13,16 +12,24 @@ jobs:
     steps:
       - name: Check
         run: |
-          for q in "" "?mpmp_country=RO" "?mpmp_kind=media" "?mpmp_level=limited" "?mpmp_country=RO&mpmp_kind=media&nocache=$RANDOM"; do
-            url="https://mpmonitor.org/passports/$q"
-            echo "=== $url"
-            curl -sSL -A "source-passports-check/1.0" -D headers.txt -o page.html -w "status %{http_code} final %{url_effective}\n" "$url" || true
-            grep -iE '^(HTTP|location|cache-control|age|x-cache|cf-cache-status|x-litespeed|x-wp-rocket|x-proxy-cache|x-sg|x-kinsta|x-hcdn|x-cache-status|server|vary|x-powered-by|x-nginx|x-varnish|link):' headers.txt | sed 's/\r//' || true
-            python3 -c "import re,html;s=open('page.html',encoding='utf-8',errors='ignore').read();i=s.find('id=\"mpmp-results-title\"');t=re.sub('<[^>]+>',' ',s[i:i+500]);print('RESULTS:',' '.join(html.unescape(t).split())[:140] if i>=0 else 'results heading not found');print('generator:',re.findall(r'<meta name=\"generator\" content=\"([^\"]+)',s)[:3]);print('cache marks:',re.findall(r'<!--[^>]{0,80}(?:cache|Cache|rocket|LiteSpeed|Optimized|minif)[^>]{0,80}-->',s)[:3])"
+          UA="source-passports-check/1.0"
+          for start in "https://mpmonitor.org/about-passports/" "https://mpmonitor.org/passports/"; do
+            echo "=== start $start"
+            curl -sSL -A "$UA" -o start.html -w "status %{http_code} final %{url_effective}\n" "$start" || true
+            python3 - <<'PY'
+          import re, html
+          s = open('start.html', encoding='utf-8', errors='ignore').read()
+          print('see-all links:', sorted(set(html.unescape(h) for h in re.findall(r'class="mpmp-findbox-all"><a href="([^"]+)"', s))))
+          print('form actions:', sorted(set(html.unescape(h) for h in re.findall(r'<form class="mpmp-find"[^>]*action="([^"]+)"', s))))
+          open('targets.txt', 'w').write('\n'.join(sorted(set(html.unescape(h) for h in re.findall(r'class="mpmp-findbox-all"><a href="([^"]+)"', s) + re.findall(r'<form class="mpmp-find"[^>]*action="([^"]+)"', s)))))
+          PY
+            while read -r t; do
+              [ -z "$t" ] && continue
+              for q in "" "?mpmp_country=RO" "?mpmp_q=adevarul"; do
+                u="${t}${q}"
+                echo "--- $u"
+                curl -sSL -A "$UA" -o t.html -w "status %{http_code} final %{url_effective}\n" "$u" || true
+                python3 -c "import re,html;s=open('t.html',encoding='utf-8',errors='ignore').read();i=s.find('id=\"mpmp-results-title\"');t=re.sub('<[^>]+>',' ',s[i:i+400]);print('  results:',' '.join(html.unescape(t).split())[:120] if i>=0 else 'NO RESULTS HEADING');print('  hub present:', 'mpmp-hub' in s, '| browse panel:', 'mpmp-browse' in s, '| body classes:', (re.findall(r'<body[^>]*class=\"([^\"]+)\"',s) or [''])[0][:160]);print('  title:', (re.findall(r'<title>([^<]+)',s) or [''])[0][:80]);print('  cache:', re.findall(r'<!-- Page cached by[^>]*-->',s)[:1])"
+              done
+            done < targets.txt
           done
-          echo "=== links on the page"
-          curl -sSL -A "source-passports-check/1.0" -o page.html "https://mpmonitor.org/passports/"
-          python3 -c "import re,html;s=open('page.html',encoding='utf-8',errors='ignore').read();l=sorted(set(html.unescape(h) for h in re.findall(r'href=\"([^\"]*mpmp_(?:country|kind|level)[^\"]*)\"',s)));print(len(l),'filter links');[print('LINK',x) for x in l[:6]];print('form action:',re.findall(r'<form class=\"mpmp-find\"[^>]*action=\"([^\"]+)',s)[:2]);print('base:',re.findall(r'<base[^>]*>',s)[:2]);print('canonical:',re.findall(r'<link rel=\"canonical\" href=\"([^\"]+)',s)[:2])"
-          first=$(python3 -c "import re,html;s=open('page.html',encoding='utf-8',errors='ignore').read();l=[html.unescape(h) for h in re.findall(r'href=\"([^\"]*mpmp_country[^\"]*)\"',s)];print(l[1] if len(l)>1 else '')")
-          echo "=== following $first"
-          curl -sS -A "source-passports-check/1.0" -o /dev/null -w "status %{http_code} redirect %{redirect_url}\n" "${first%%#*}"
