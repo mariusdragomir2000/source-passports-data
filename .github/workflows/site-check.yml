@@ -1,6 +1,6 @@
 name: Check how the live passports page answers filters
-# Runs only by hand. Follows the "See all passports" link and the search box on the
-# About page, then checks whether the page it reaches filters by country. Changes nothing.
+# Runs only by hand. Prints the outline of the live passports page with and without
+# a filter (headings, number of passport cards, page title, layout classes). Changes nothing.
 on:
   workflow_dispatch:
 permissions:
@@ -12,24 +12,17 @@ jobs:
     steps:
       - name: Check
         run: |
-          UA="source-passports-check/1.0"
-          for start in "https://mpmonitor.org/about-passports/" "https://mpmonitor.org/passports/"; do
-            echo "=== start $start"
-            curl -sSL -A "$UA" -o start.html -w "status %{http_code} final %{url_effective}\n" "$start" || true
-            python3 - <<'PY'
-          import re, html
-          s = open('start.html', encoding='utf-8', errors='ignore').read()
-          print('see-all links:', sorted(set(html.unescape(h) for h in re.findall(r'class="mpmp-findbox-all"><a href="([^"]+)"', s))))
-          print('form actions:', sorted(set(html.unescape(h) for h in re.findall(r'<form class="mpmp-find"[^>]*action="([^"]+)"', s))))
-          open('targets.txt', 'w').write('\n'.join(sorted(set(html.unescape(h) for h in re.findall(r'class="mpmp-findbox-all"><a href="([^"]+)"', s) + re.findall(r'<form class="mpmp-find"[^>]*action="([^"]+)"', s)))))
-          PY
-            while read -r t; do
-              [ -z "$t" ] && continue
-              for q in "" "?mpmp_country=RO" "?mpmp_q=adevarul"; do
-                u="${t}${q}"
-                echo "--- $u"
-                curl -sSL -A "$UA" -o t.html -w "status %{http_code} final %{url_effective}\n" "$u" || true
-                python3 -c "import re,html;s=open('t.html',encoding='utf-8',errors='ignore').read();i=s.find('id=\"mpmp-results-title\"');t=re.sub('<[^>]+>',' ',s[i:i+400]);print('  results:',' '.join(html.unescape(t).split())[:120] if i>=0 else 'NO RESULTS HEADING');print('  hub present:', 'mpmp-hub' in s, '| browse panel:', 'mpmp-browse' in s, '| body classes:', (re.findall(r'<body[^>]*class=\"([^\"]+)\"',s) or [''])[0][:160]);print('  title:', (re.findall(r'<title>([^<]+)',s) or [''])[0][:80]);print('  cache:', re.findall(r'<!-- Page cached by[^>]*-->',s)[:1])"
-              done
-            done < targets.txt
+          for u in "https://mpmonitor.org/passports/" "https://mpmonitor.org/passports/?mpmp_kind=media" "https://mpmonitor.org/passports/?mpmp_country=RO&x=$RANDOM" "https://mpmonitor.org/passports/?mpmp_q=adevarul"; do
+            echo "=== $u"
+            curl -sSL -A "source-passports-check/1.0" -o t.html -w "status %{http_code} final %{url_effective} bytes %{size_download}\n" "$u" || true
+            python3 -c "
+          import re,html
+          s=open('t.html',encoding='utf-8',errors='ignore').read()
+          b=(re.findall(r'<body[^>]*class=\"([^\"]+)\"',s) or [''])[0]
+          print('body:',b[:220])
+          print('passport cards:',s.count('<li class=\"mpmp-card\"'),'| hub blocks:',s.count('class=\"mpmp mpmp-hub'),'| other lists:',len(re.findall(r'<table',s)),'tables')
+          for m in re.finditer(r'<h([1-3])[^>]*>(.*?)</h\1>',s,re.S):
+              t=' '.join(html.unescape(re.sub('<[^>]+>',' ',m.group(2))).split())
+              if t: print('  h%s: %s'%(m.group(1),t[:110]))
+          "
           done
