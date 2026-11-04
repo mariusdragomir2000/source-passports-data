@@ -1,0 +1,22 @@
+name: Check how the live passports page answers filters
+# Runs only by hand. Prints, for a few filter addresses, the final address after
+# redirects, cache-related response headers and the results heading, so a cache
+# or redirect that drops the filters can be spotted. Changes nothing.
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check
+        run: |
+          for q in "" "?mpmp_country=RO" "?mpmp_kind=media" "?mpmp_level=limited" "?mpmp_country=RO&mpmp_kind=media&nocache=$RANDOM"; do
+            url="https://mpmonitor.org/passports/$q"
+            echo "=== $url"
+            curl -sSL -A "source-passports-check/1.0" -D headers.txt -o page.html -w "status %{http_code} final %{url_effective}\n" "$url" || true
+            grep -iE '^(HTTP|location|cache-control|age|x-cache|cf-cache-status|x-litespeed|x-wp-rocket|x-proxy-cache|x-sg|x-kinsta|x-hcdn|x-cache-status|server|vary|x-powered-by|x-nginx|x-varnish|link):' headers.txt | sed 's/\r//' || true
+            python3 -c "import re,html;s=open('page.html',encoding='utf-8',errors='ignore').read();i=s.find('id=\"mpmp-results-title\"');t=re.sub('<[^>]+>',' ',s[i:i+500]);print('RESULTS:',' '.join(html.unescape(t).split())[:140] if i>=0 else 'results heading not found');print('generator:',re.findall(r'<meta name=\"generator\" content=\"([^\"]+)',s)[:3]);print('cache marks:',re.findall(r'<!--[^>]{0,80}(?:cache|Cache|rocket|LiteSpeed|Optimized|minif)[^>]{0,80}-->',s)[:3])"
+          done
